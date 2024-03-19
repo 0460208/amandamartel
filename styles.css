@@ -1,0 +1,18 @@
+/* side bar*/
+
+aside {
+     padding: 2%;
+     width: 35%;
+     float: left;
+     background-color: lightgreen;
+}
+aside h2 {
+    margin-bottom: 0.4em;
+}
+aside p {
+    margin: 0.4em 0;
+}
+
+.description aside p {
+    left-margin: 1em;
+}
