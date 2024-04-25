@@ -9,6 +9,9 @@
 		<title>Portfolio</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<!-- style sheets -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 		<link rel="stylesheet" href="assets/css/main.css" />
 	</head>
@@ -142,36 +145,6 @@
 		</a>
 	  </div>				
 
-	  <!-- slideshow -->
- <!-- Define the slideshow container -->
- <div id="slideshow">
-	<div class="slide-wrapper">
-
-		<!-- Define each of the slides
-	 and write the content -->
-
-		<div class="slide">
-			<h1 class="slide-number">
-				GeeksforGeeks
-			</h1>
-		</div>
-		<div class="slide">
-			<h1 class="slide-number">
-				A computer science portal
-			</h1>
-		</div>
-		<div class="slide">
-			<h1 class="slide-number">
-				This is an example of
-			</h1>
-		</div>
-		<div class="slide">
-			<h1 class="slide-number">
-				Slideshow with HTML and CSS only
-			</h1>
-		</div>
-	</div>
-</div>
 
 				<!-- Three -->
 					<section id="three">
@@ -551,6 +524,36 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+		<!-- javaScript -->
+			<script>
+				$(document).ready(function(){
+				  // Activate Carousel
+				  $("#myCarousel").carousel();
+					
+				  // Enable Carousel Indicators
+				  $(".item1").click(function(){
+					$("#myCarousel").carousel(0);
+				  });
+				  $(".item2").click(function(){
+					$("#myCarousel").carousel(1);
+				  });
+				  $(".item3").click(function(){
+					$("#myCarousel").carousel(2);
+				  });
+				  $(".item4").click(function(){
+					$("#myCarousel").carousel(3);
+				  });
+					
+				  // Enable Carousel Controls
+				  $(".left").click(function(){
+					$("#myCarousel").carousel("prev");
+				  });
+				  $(".right").click(function(){
+					$("#myCarousel").carousel("next");
+				  });
+				});
+				</script>
+				
 
 	</body>
 </html>
