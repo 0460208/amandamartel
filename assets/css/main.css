@@ -3243,8 +3243,8 @@ input, select, textarea {
 		place-items: start center;
 		gap: 5px;
 		
-		&:has(:hover) a:not(:hover),
-		&:has(:focus) a:not(:focus){
+		a:has(:hover) a:not(:hover),
+		a:has(:focus) a:not(:focus){
 		  filter: brightness(0.5) contrast(0.5);
 		}
 	  
