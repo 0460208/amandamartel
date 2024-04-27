@@ -3243,8 +3243,8 @@ input, select, textarea {
 		place-items: start center;
 		gap: 5px;
 		
-		a:has(a:hover) a:not(:hover),
-		a:has(a:focus) a:not(:focus){
+		&:has(:hover) a:not(:hover),
+		&:has(:focus) a:not(:focus){
 		  filter: brightness(0.5) contrast(0.5);
 		}
 	  
@@ -3258,7 +3258,7 @@ input, select, textarea {
 		  border-radius: 5px;
 		  position: relative;
 	  
-		  a:nth-child(5n - 1) { 
+		  &:nth-child(5n - 1) { 
 			grid-column: 2 / span 2 
 		  }
 	  
