@@ -2650,7 +2650,7 @@ input, select, textarea {
 	}
 
 		#footer .icons a {
-			color: rgba(255, 255, 255, 0.728);
+			color: rgba(255, 255, 255, 0.5);
 		}
 
 	#footer .copyright {
@@ -3270,24 +3270,21 @@ input, select, textarea {
 	  }
 	  
 	  .item-3 { 
-		background-image: url('../../images/fulls/craigslistwfhomepage.jpg');
+		background-image: url('../../images/fulls/actwf.png');
 	  }
 	  
 	  .item-4 { 
-		background-image: url('../../images/fulls/saswf.jpg');
+		background-image: url('../../images/fulls/craigslistwfhomepage.jpg');
 	  }
-	  
-	  .item-5 { 
-		background-image: url('../../images/fulls/actwf.png');
-	  }
+
 	  
 	  .social{
 		position: absolute;
 		right: 35px;
 		bottom: 0;
+	  }
 		
-		/* img{
+	.item-1, .item-2, .item-3, .item-4{
 		  display: block;
 		  width: 32px;
-		} */
 	  }
