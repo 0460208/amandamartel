@@ -3220,6 +3220,13 @@ input, select, textarea {
 
 	}
 
+		/* Carousel */
+		.carousel-inner > .item > img,
+		.carousel-inner > .item > a > img {
+		  width: 70%;
+		  margin: auto;
+		}
+
 	/* gallery */
 	html,body{
 		width: 100%;
@@ -3239,7 +3246,7 @@ input, select, textarea {
 		height: 70vh;
 	  }
 	  
-	  .galleryitem {
+	  .item {
 		flex: 1;
 		height: 100%;
 		background-position: center;
@@ -3249,23 +3256,23 @@ input, select, textarea {
 		
 	  }
 	  
-	  .galleryitem:hover {
+	  .item:hover {
 		flex: 7;
 	  }
 	  
-	  .galleryitem-1 { 
+	  .item-1 { 
 		background-image: url('../../images/fulls/starbuckswf.jpg');
 	  }
 	  
-	  .galleryitem-2 { 
+	  .item-2 { 
 		background-image: url('../../images/fulls/wizardwfhome.jpg');
 	  }
 	  
-	  .galleryitem-3 { 
+	  .item-3 { 
 		background-image: url('../../images/fulls/actwf.png');
 	  }
 	  
-	  .galleryitem-4 { 
+	  .item-4 { 
 		background-image: url('../../images/fulls/craigslistwfhomepage.jpg');
 	  }
 
@@ -3276,7 +3283,7 @@ input, select, textarea {
 		bottom: 0;
 	  }
 		
-	.galleryitem-1, .galleryitem-2, .galleryitem-3, .galleryitem-4{
+	.item-1, .item-2, .item-3, .item-4{
 		  display: block;
 		  width: 50px;
 	  }
