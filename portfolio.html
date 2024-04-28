@@ -18,6 +18,9 @@
   		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
   		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
+		<!-- slideshow stylesheets-->
+		<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+		<link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" href="assets/css/main.css" />
 	</head>
 	<body class="is-preload">
@@ -65,6 +68,48 @@
 									The showcased pages demonstrate my individual contributions to the project. Feel free to explore the entire website at <a href="" target="_blank">Brukner Nature Center</a> to see our work live!</p>
 								
 								<article class="col-6 col-12-xsmall work-item">
+
+									<!-- slideshow -->
+									<div style='text-align:center;'>
+										<h3 style='text-align: center;margin: 55px 0px;border-bottom: 2px solid #666; display:inline-block;padding-bottom:10px'>Bootstrap Carousel Fade In & FadeOut</h3>
+										</div>
+											<div id="carouselFade" class="carousel slide carousel-fade" data-ride="carousel">
+										
+												<!-- Wrapper for slides -->
+												<div class="carousel-inner" role="listbox">
+													<div class="item active">  
+														<div class="carousel-caption">
+														  <h3>First slide label</h3>
+														  <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+														</div>
+													</div>
+													<div class="item"> 
+														<div class="carousel-caption">
+														  <h3>Second slide label</h3>
+														  <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+														</div>
+													</div>
+													<div class="item"> 
+														<div class="carousel-caption">
+														  <h3>Third slide label</h3>
+														  <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+														</div>
+													</div>
+												</div>
+										
+												<!-- Controls -->
+												<a class="left carousel-control" href="#carouselFade" role="button" data-slide="prev">
+													<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+													<span class="sr-only">Previous</span>
+												</a>
+												<a class="right carousel-control" href="#carouselFade" role="button" data-slide="next">
+													<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+													<span class="sr-only">Next</span>
+												</a>
+											</div>
+										
+
+									<!--image -->
 									<a href="images/fulls/bruknerredesign/bruknerscoutprograms.png" class="image fit thumb"><img src="images/fulls/bruknerredesign/bruknerscoutprograms.png" alt="" /></a>
 								</article>
 								<article class="col-6 col-12-xsmall work-item">
@@ -543,34 +588,40 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+			<!-- slideshow scripts -->
+				<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+				<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+				<!-- Include all compiled plugins (below), or include individual files as needed -->
+				<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
 		<!-- javaScript -->
 			<script>
-				$(document).ready(function(){
+			//	$(document).ready(function(){
 				  // Activate Carousel
-				  $("#myCarousel").carousel();
+			//	  $("#myCarousel").carousel();
 					
 				  // Enable Carousel Indicators
-				  $(".item1").click(function(){
-					$("#myCarousel").carousel(0);
-				  });
-				  $(".item2").click(function(){
-					$("#myCarousel").carousel(1);
-				  });
-				  $(".item3").click(function(){
-					$("#myCarousel").carousel(2);
-				  });
-				  $(".item4").click(function(){
-					$("#myCarousel").carousel(3);
-				  });
+			//	  $(".item1").click(function(){
+			//		$("#myCarousel").carousel(0);
+			//	  });
+			//	  $(".item2").click(function(){
+			//		$("#myCarousel").carousel(1);
+			//	  });
+			//	  $(".item3").click(function(){
+			//		$("#myCarousel").carousel(2);
+			//	  });
+			//	  $(".item4").click(function(){
+			//		$("#myCarousel").carousel(3);
+			//	  });
 					
 				  // Enable Carousel Controls
-				  $(".left").click(function(){
-					$("#myCarousel").carousel("prev");
-				  });
-				  $(".right").click(function(){
-					$("#myCarousel").carousel("next");
-				  });
-				});
+			//	  $(".left").click(function(){
+			//		$("#myCarousel").carousel("prev");
+			//	  });
+			//	  $(".right").click(function(){
+			//		$("#myCarousel").carousel("next");
+			//	  });
+			//	});
+			$('#carouselFade').carousel();
 				</script>
 
 	</body>
