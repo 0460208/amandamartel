@@ -3314,7 +3314,7 @@ input, select, textarea {
 	  }
 	  
 	  .box {
-		flex: 7;
+		flex: 10;
 		overflow: hidden;
 		transition: .5s;
 		margin: 0 2%;
