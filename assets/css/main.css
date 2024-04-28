@@ -3316,7 +3316,7 @@ input, select, textarea {
 	  .container {
 		display: flex;
 		width: 100%;
-		padding: 4% 2%;
+		padding: 2%;
 		box-sizing: border-box;
 		height: 100vh;
 	  }
@@ -3347,7 +3347,7 @@ input, select, textarea {
 	  
 	  .box:hover { flex: 1 1 50%; }
 	  .box:hover > img {
-		width: 200%;
-		height: 200%;
+		width: 300%;
+		height: 300%;
 	  }
 	   
