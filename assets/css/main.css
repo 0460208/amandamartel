@@ -3246,7 +3246,7 @@ input, select, textarea {
 		height: 70vh;
 	  }
 	  
-	  .item {
+	  .galleryitem {
 		flex: 1;
 		height: 100%;
 		background-position: center;
@@ -3256,23 +3256,23 @@ input, select, textarea {
 		
 	  }
 	  
-	  .item:hover {
+	  .galleryitem:hover {
 		flex: 7;
 	  }
 	  
-	  .item-1 { 
+	  .galleryitem-1 { 
 		background-image: url('../../images/fulls/starbuckswf.jpg');
 	  }
 	  
-	  .item-2 { 
+	  .galleryitem-2 { 
 		background-image: url('../../images/fulls/wizardwfhome.jpg');
 	  }
 	  
-	  .item-3 { 
+	  .galleryitem-3 { 
 		background-image: url('../../images/fulls/actwf.png');
 	  }
 	  
-	  .item-4 { 
+	  .galleryitem-4 { 
 		background-image: url('../../images/fulls/craigslistwfhomepage.jpg');
 	  }
 
@@ -3283,7 +3283,7 @@ input, select, textarea {
 		bottom: 0;
 	  }
 		
-	.item-1, .item-2, .item-3, .item-4{
+	.galleryitem-1, .galleryitem-2, .galleryitem-3, .galleryitem-4{
 		  display: block;
 		  width: 50px;
 	  }
