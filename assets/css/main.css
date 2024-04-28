@@ -3315,7 +3315,7 @@ input, select, textarea {
 	  /* gallery */
 	  .gallerycontainer {
 		display: flex;
-		width: 200%;
+		width: 150%;
 		padding: 2%;
 		box-sizing: border-box;
 		height: 100vh;
