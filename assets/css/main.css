@@ -3240,15 +3240,6 @@ input, select, textarea {
 		width: 1140px;
 	  }
 	  
-	  h1{
-		position: relative;
-		margin-bottom: 45px;
-		font-family: 'Oswald', sans-serif;
-		font-size: 44px;
-		text-transform: uppercase;
-		color: #424242;
-	  }
-	  
 	  .gallery-wrap {
 		display: flex;
 		flex-direction: row;
@@ -3271,23 +3262,23 @@ input, select, textarea {
 	  }
 	  
 	  .item-1 { 
-		background-image: url('https://images.unsplash.com/photo-1499198116522-4a6235013d63?auto=format&fit=crop&w=1233&q=80');
+		background-image: url('../../images/fulls/starbuckswf.jpg');
 	  }
 	  
 	  .item-2 { 
-		background-image: url('https://images.unsplash.com/photo-1492760864391-753aaae87234?auto=format&fit=crop&w=1336&q=80');
+		background-image: url('../../images/fulls/wizardwfhome.jpg');
 	  }
 	  
 	  .item-3 { 
-		background-image: url('https://images.unsplash.com/photo-1503631285924-e1544dce8b28?auto=format&fit=crop&w=1234&q=80');
+		background-image: url('../../images/fulls/craigslistwfhomepage.jpg');
 	  }
 	  
 	  .item-4 { 
-		background-image: url('https://images.unsplash.com/photo-1510425463958-dcced28da480?auto=format&fit=crop&w=1352&q=80');
+		background-image: url('../../images/fulls/saswf.jpg');
 	  }
 	  
 	  .item-5 { 
-		background-image: url('https://images.unsplash.com/photo-1503602642458-232111445657?auto=format&fit=crop&w=1234&q=80');
+		background-image: url('../../images/fulls/actwf.png');
 	  }
 	  
 	  .social{
