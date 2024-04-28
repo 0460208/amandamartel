@@ -3220,74 +3220,15 @@ input, select, textarea {
 
 	}
 
-		/* Carousel */
+		/* Carousel 
 		.carousel-inner > .item > img,
 		.carousel-inner > .item > a > img {
 		  width: 70%;
 		  margin: auto;
 		}
 
-	/* gallery */
-	html,body{
-		width: 100%;
-		height: 100%;
-	  }
-	  
-	 /*  .container{
-		padding: 75px 0;
-		margin: 0 auto;
-		width: 1140px;
-	  } */
-	  
-	  .gallery-wrap {
-		display: flex;
-		flex-direction: row;
-		width: 100%;
-		height: 70vh;
-	  }
-	  
-	  .galleryitem {
-		flex: 1;
-		height: 100%;
-		background-position: center;
-		background-size: cover;
-		background-repeat: none;
-		transition: flex 0.8s ease;
+		*/
 		
-	  }
-	  
-	  .galleryitem:hover {
-		flex: 7;
-	  }
-	  
-	  .galleryitem-1 { 
-		background-image: url('../../images/fulls/starbuckswf.jpg');
-	  }
-	  
-	  .galleryitem-2 { 
-		background-image: url('../../images/fulls/wizardwfhome.jpg');
-	  }
-	  
-	  .galleryitem-3 { 
-		background-image: url('../../images/fulls/actwf.png');
-	  }
-	  
-	  .galleryitem-4 { 
-		background-image: url('../../images/fulls/craigslistwfhomepage.jpg');
-	  }
-
-	  
-	  .social{
-		position: absolute;
-		right: 35px;
-		bottom: 0;
-	  }
-		
-	.galleryitem-1, .galleryitem-2, .galleryitem-3, .galleryitem-4{
-		  display: block;
-		  width: 50px;
-	  }
-
 /* slideshow */
   .carousel-fade .carousel-inner .item {
 	opacity: 0;
