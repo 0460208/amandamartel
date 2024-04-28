@@ -3228,7 +3228,7 @@ input, select, textarea {
 		}
 
 		*/
-
+		
 /* slideshow */
   .carousel-fade .carousel-inner .item {
 	opacity: 0;
@@ -3331,7 +3331,7 @@ input, select, textarea {
 	  }
 	  
 	  .box > img {
-		width: 100%;
+		width: 200%;
 		height: calc(100% - 10vh);
 		object-fit: cover; 
 		transition: .5s;
