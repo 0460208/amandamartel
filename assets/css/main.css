@@ -3373,3 +3373,4 @@ input, select, textarea {
   .expanded { transform: scale(2); z-index: 5;  }
   div#quad figure.expanded figcaption { opacity: 1; }
   div.full figure:not(.expanded) { pointer-events: none; }
+
