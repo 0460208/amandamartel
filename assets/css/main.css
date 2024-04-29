@@ -3375,21 +3375,18 @@ input, select, textarea {
   div.full figure:not(.expanded) { pointer-events: none; }
 
 /* gallery */
+body {
+    min-height: 100vh;
+    align-items: center;
+}
 
-.gallerycontainer {
+.container {
     display: flex;
     justify-content: center;
     align-items: center;
     margin: 10vmin;
     overflow: hidden;
     transform: skew(5deg);
-
-	margin: 0;
-    min-height: 100vh;
-    font-family: sans-serif;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 .container .card {
@@ -3443,5 +3440,4 @@ input, select, textarea {
 .container .card:not(:nth-child(5)) {
     margin-right: 1em;
 }
-
   
