@@ -3351,7 +3351,7 @@ input, select, textarea {
 
   div#quad { 
 	background-color: #000; 
-	font-size: 0; width: 60%; 
+	font-size: 0; width: 100%; 
 	margin: 0 auto;
 	box-shadow: 0 0 12px rgba(0,0,0,0.8);
   }
