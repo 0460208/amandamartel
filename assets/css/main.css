@@ -3375,17 +3375,8 @@ input, select, textarea {
   div.full figure:not(.expanded) { pointer-events: none; }
 
 /* gallery */
-body {
-    margin: 0;
-    min-height: 100vh;
-    background: #000;
-    font-family: sans-serif;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
 
-.container {
+.designcontainer {
     display: flex;
     justify-content: center;
     align-items: center;
