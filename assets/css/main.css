@@ -3386,7 +3386,7 @@ body {
     align-items: center;
     margin: 10vmin;
     overflow: hidden;
-    transform: skew(5deg);
+   /* transform: skew(5deg); */
 }
 
 .designcontainer .card {
@@ -3426,7 +3426,7 @@ body {
     color: white;
     background: rgba(0, 0, 0, 0.5);
     font-size: 2em;
-    transform: rotate(0deg) skew(-5deg);
+    transform: rotate(0deg) /* skew(-5deg)*/;
 }
 
 .designcontainer .card img {
