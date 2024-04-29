@@ -3375,5 +3375,5 @@ input, select, textarea {
   div.full figure:not(.expanded) { pointer-events: none; }
 
   #beforeimg {
-	position: absolute;
+
   }
