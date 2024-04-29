@@ -3280,7 +3280,7 @@ input, select, textarea {
 	  .carousel,
 	  .carousel-inner,
 	  .carousel-inner .item {
-		height: 98%;
+		height: 99%;
 	  } 
 	  .item:nth-child(1) {
 		background: url('../../images/fulls/bruknerredesign/bruknerbirdvista.png');
