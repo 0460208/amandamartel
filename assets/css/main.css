@@ -3359,8 +3359,8 @@ input, select, textarea {
   div#quad figure img { width: 70%; height: auto; }
   div#quad figure:nth-child(1) { transform-origin: top left; }
   div#quad figure:nth-child(2) { transform-origin: top right; }
-  div#quad figure:nth-child(3) { transform-origin: bottom left; }
-  div#quad figure:nth-child(4) { transform-origin: bottom right; }
+ /* div#quad figure:nth-child(3) { transform-origin: bottom left; }
+  div#quad figure:nth-child(4) { transform-origin: bottom right; } */
   div#quad figure figcaption { 
 	margin: 0; opacity: 0; 
 	background: rgba(0,0,0,0.3); 
