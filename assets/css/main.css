@@ -3374,8 +3374,7 @@ input, select, textarea {
   div#quad figure.expanded figcaption { opacity: 1; }
   div.full figure:not(.expanded) { pointer-events: none; }
 
-  #beforeimg {
+  div#beforeimg {
 	position: absolute;
-	bottom: 0; 
-	left: 0;
+	bottom: 0;
   }
