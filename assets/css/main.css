@@ -3305,7 +3305,7 @@ input, select, textarea {
 
 
 	  /* gallery */
-	  .gallerycontainer {
+	  .container {
 		display: flex;
 		width: 100%;
 		padding: 4% 2%;
@@ -3314,7 +3314,7 @@ input, select, textarea {
 	  }
 	  
 	  .box {
-		flex: 10;
+		flex: 1;
 		overflow: hidden;
 		transition: .5s;
 		margin: 0 2%;
