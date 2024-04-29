@@ -3280,25 +3280,25 @@ input, select, textarea {
 	  .carousel,
 	  .carousel-inner,
 	  .carousel-inner .item {
-		height: 160%;
+		height: 120%;
 	  } 
 	  .item:nth-child(1) {
 		background: url('../../images/fulls/bruknerredesign/bruknerbirdvista.png');
-	background-size: cover;
+	background-size: contain;
 	background-position: center center;
 	background-repeat: no-repeat;
 	  }
   
 	  .item:nth-child(2) {
 		background: url('../../images/fulls/bruknerredesign/bruknerscoutprograms.png');
-	background-size: cover;
+	background-size: contain;
 	background-position: center center;
 	background-repeat: no-repeat;
 	  }
   
 	  .item:nth-child(3) {
 		background: url('../../images/fulls/bruknerredesign/bruknerbirdersclub.png');
-	background-size: cover;
+	background-size: contain;
 	background-position: center center;
 	background-repeat: no-repeat;
 	  }
