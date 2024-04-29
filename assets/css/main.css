@@ -3343,3 +3343,7 @@ input, select, textarea {
 		height: 100%;
 	  }
 	   
+.wfimg {
+	width: 600px;
+	height: auto;
+}
