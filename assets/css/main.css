@@ -3367,7 +3367,7 @@ input, select, textarea {
 	color: #fff; padding: .3rem; 
 	font-size: 1.2rem; 
 	position: absolute; 
-	bottom: 0; width: 100%;
+	bottom: 0; width: 50%;
 	  transition: 1s 1s opacity; 
   }
   .expanded { transform: scale(2); z-index: 5;  }
