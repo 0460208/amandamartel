@@ -3350,10 +3350,10 @@ input, select, textarea {
 
 
   div#quad { 
-	background-color: #000; 
-	font-size: 0; width: 100%; 
+	background-color: rgb(255, 255, 255); 
+	font-size: 0; width: 100%;
 	margin: 0 auto;
-	box-shadow: 0 0 12px rgba(0,0,0,0.8);
+	box-shadow: 0 0 12px rgba(0, 0, 0, 0.363);
   }
   div#quad figure { 
 	margin: 0; width: 50%; 
@@ -3362,7 +3362,7 @@ input, select, textarea {
 	position: relative; overflow: hidden; 
   }
   div#quad figure:hover { cursor: pointer; z-index: 4; }
-  div#quad figure img { width: 100%; height: auto; }
+  div#quad figure img { width: 80%; height: auto; }
   div#quad figure:nth-child(1) { transform-origin: top left; }
   div#quad figure:nth-child(2) { transform-origin: top right; }
   div#quad figure:nth-child(3) { transform-origin: bottom left; }
