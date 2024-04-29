@@ -3397,7 +3397,7 @@ body {
 
 .designcontainer .card .card__head {
     color: black;
-    background: rgba(255, 30, 173, 0.75);
+    background: #3eb08f;
     padding: 0.5em;
     transform: rotate(-90deg);
     transform-origin: 0% 0%;
@@ -3413,6 +3413,7 @@ body {
 
 .designcontainer .card:hover {
     flex-grow: 10;
+	object-fit: contain;
 }
 
 .designcontainer .card:hover img {
@@ -3426,7 +3427,6 @@ body {
     background: rgba(0, 0, 0, 0.5);
     font-size: 2em;
     transform: rotate(0deg) /* skew(-5deg)*/;
-	object-fit: cover;
 }
 
 .designcontainer .card img {
