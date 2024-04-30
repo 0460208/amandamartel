@@ -1,3 +1,5 @@
+<?php include "index.html"; ?>
+
 <?php 
 if(isset($_POST['submit'])) 
 { 
