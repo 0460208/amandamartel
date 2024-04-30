@@ -168,6 +168,11 @@ input, select, textarea {
 		line-height: 1.5em;
 	}
 
+
+	footer h4 {
+		margin: none;
+	}
+
 	h5 {
 		font-size: 0.9em;
 		line-height: 1.5em;
