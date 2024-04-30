@@ -154,6 +154,9 @@ input, select, textarea {
 	h2 {
 		font-size: 1.5em;
 		line-height: 1.5em;
+		background-color: #e1c8dc;
+		padding-left: 1em;
+
 	}
 
 	h3 {
