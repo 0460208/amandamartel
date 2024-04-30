@@ -161,9 +161,9 @@ input, select, textarea {
 		line-height: 1.5em;
 		background-color: #e1c8dc;
 		padding-left: 1em;
-		border-bottom:rgba(32, 244, 0, 0.988);
+		border-bottom:rgba(222, 54, 183, 0.808);
 		border-style: dotted;
-		
+		border-radius: 2px;
 	}
 
 	h4 {
