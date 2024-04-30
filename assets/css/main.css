@@ -3433,13 +3433,13 @@ body {
 }
 
 .designcontainer .card:hover .card__head {
-    /* text-align: center;
+    text-align: center;
     top: calc(100%);
     color: white;
     background: rgba(0, 0, 0, 0.5);
     font-size: 2em;
-    transform: rotate(0deg) /* skew(-5deg)*/
-	display: none;
+    transform: rotate(0deg); /* skew(-5deg)*/
+	object-fit: contain;
 }
 
 .designcontainer .card img {
