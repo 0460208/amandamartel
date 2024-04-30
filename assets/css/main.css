@@ -159,10 +159,10 @@ input, select, textarea {
 	h3 {
 		font-size: 1.25em;
 		line-height: 1.5em;
-		padding-left: 1em;
+		padding-left: .5em;
 		border-bottom:rgba(222, 54, 183, 0.808);
 		border-style: dotted;
-		border-radius: 2px;
+		border-radius: 4px;
 	}
 
 	h4 {
