@@ -3412,6 +3412,8 @@ body {
     left: 0;
     font-size: 1em;
     white-space: nowrap;
+	object-fit: contain;
+
 }
 
 .designcontainer .card:hover {
