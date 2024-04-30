@@ -2980,8 +2980,6 @@ input, select, textarea {
 	body.is-touch #header {
 		background-attachment: scroll;
 		background-size: auto, cover;
-		background-image: url('../../images/fulls/transparentbg.png');
-		background-size: auto, cover;
 	}
 
 	body.is-touch .poptrox-popup .nav-next,
