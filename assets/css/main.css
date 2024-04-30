@@ -2696,6 +2696,8 @@ input, select, textarea {
 		padding: 8em 4em 4em 4em;
 		width: calc(100% - 35%);
 		background-image: url('../../images/fulls/transparentbg.png');
+		background-size: auto, cover;
+		
 	}
 
 		#main > section {
