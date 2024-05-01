@@ -160,7 +160,7 @@ input, select, textarea {
 		font-size: 1.25em;
 		line-height: 1.5em;
 		padding-left: .5em;
-		margin-top: 5em;
+		margin-top: 4em;
 	}
 
 	h4 {
@@ -168,6 +168,10 @@ input, select, textarea {
 		line-height: 1.5em;
 	}
 
+
+	#nomarginh3 {
+		margin-top: none;
+	}
 
 	footer h4 {
 		margin: none;
