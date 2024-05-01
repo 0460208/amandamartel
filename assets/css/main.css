@@ -3461,3 +3461,7 @@ body {
 #skillsheader {
 	margin-top: auto;
 }
+
+.col-md-6, .col-lg-6 {
+	min-height: 500px;
+}
