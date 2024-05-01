@@ -160,9 +160,7 @@ input, select, textarea {
 		font-size: 1.25em;
 		line-height: 1.5em;
 		padding-left: .5em;
-		border-bottom:rgba(222, 54, 183, 0.808);
-		border-style: dotted;
-		border-radius: 4px;
+		margin-top: 5em;
 	}
 
 	h4 {
