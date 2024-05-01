@@ -3457,3 +3457,7 @@ body {
 .icon solid fa-home {
 	margin-bottom: 0;
 }
+
+#skillsheader {
+	margin-top: auto;
+}
