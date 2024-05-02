@@ -2976,6 +2976,7 @@ input, select, textarea {
 	body.is-touch #header {
 		background-attachment: scroll;
 		background-size: auto, cover;
+		align-content: center;
 	}
 
 	body.is-touch .poptrox-popup .nav-next,
