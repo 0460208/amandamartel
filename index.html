@@ -94,11 +94,11 @@
 							</article>
 							<article class="col-6 col-12-xsmall work-item">
 								<figure>
-									<img src="images/fulls/starbuckswf.png" alt="wireframe1" width="500px" height="auto";>
+									<img src="images/fulls/starbuckswf.png" alt="wireframe1" width="200px" height="auto";>
 									<figcaption>Starbucks Wireframe</figcaption>
 									</figure>
 									<figure>
-										<img src="images/fulls/actwf.png" alt="wireframe2" width="500px" height="auto">
+										<img src="images/fulls/actwf.png" alt="wireframe2" width="200px" height="auto">
 										<figcaption>ACT Wireframe</figcaption>
 									</figure>
 							</article>
@@ -550,13 +550,58 @@
 
 			</footer>
 
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.poptrox.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
+	<!-- Scripts -->
+	<script src="assets/js/jquery.min.js"></script>
+	<script src="assets/js/jquery.poptrox.min.js"></script>
+	<script src="assets/js/browser.min.js"></script>
+	<script src="assets/js/breakpoints.min.js"></script>
+	<script src="assets/js/util.js"></script>
+	<script src="assets/js/main.js"></script>
+	<!-- slideshow scripts -->
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+		<!-- Include all compiled plugins (below), or include individual files as needed -->
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+<!-- javaScript -->
+	<script>
+	//	$(document).ready(function(){
+		  // Activate Carousel
+	//	  $("#myCarousel").carousel();
+			
+		  // Enable Carousel Indicators
+	//	  $(".item1").click(function(){
+	//		$("#myCarousel").carousel(0);
+	//	  });
+	//	  $(".item2").click(function(){
+	//		$("#myCarousel").carousel(1);
+	//	  });
+	//	  $(".item3").click(function(){
+	//		$("#myCarousel").carousel(2);
+	//	  });
+	//	  $(".item4").click(function(){
+	//		$("#myCarousel").carousel(3);
+	//	  });
+			
+		  // Enable Carousel Controls
+	//	  $(".left").click(function(){
+	//		$("#myCarousel").carousel("prev");
+	//	  });
+	//	  $(".right").click(function(){
+	//		$("#myCarousel").carousel("next");
+	//	  });
+	//	});
+	$('#carouselFade').carousel();
+		</script>
+					<script type="text/javascript">
+						var quadimages = 
+						document.querySelectorAll("#quad figure");
+						for(i=0; i<quadimages.length; i++) {
+							  quadimages[i].addEventListener('click', 
+						function(){ 
+						this.classList.toggle("expanded"); 
+						quad.classList.toggle("full") }); 
+						}
+					</script>
 
-	</body>
+</body>
 </html>
