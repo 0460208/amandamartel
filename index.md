@@ -26,11 +26,6 @@ I create SEO by conducting keyword research, optimizing website content, and imp
 
 
 
-### Letters of Recommendation
-
-" " 
-
-
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
