@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Hi, I'm Amanda!
-
 I’m a web designer with over 5 years of
 experience, dedicated to blending
 creativity with technical expertise. My sites are dynamic, user-friendly, and drive traffic to your online business. Reach
