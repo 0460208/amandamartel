@@ -24,7 +24,7 @@ creativity with technical expertise. My sites are dynamic, user-friendly, and dr
 out to me for any inquires. Together, we
 can create an extraordinary website!
 
-[button url="./another-page.html"]
+{% include button.html url="./another-page" %}
 
 ## What I do
 
