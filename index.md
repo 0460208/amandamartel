@@ -24,7 +24,7 @@ creativity with technical expertise. My sites are dynamic, user-friendly, and dr
 out to me for any inquires. Together, we
 can create an extraordinary website!
 
-[Click me](http://www.google.com){: .btn}
+[View Portfolio](./portfolio.html){: .btn}
 
 ## What I do
 
