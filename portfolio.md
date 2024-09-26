@@ -21,7 +21,4 @@ I create SEO by conducting keyword research, optimizing website content, and imp
 
 
 
-
-_yay_
-
 [back](./)
