@@ -2,6 +2,12 @@
 layout: default
 ---
 
+Hi, I'm Amanda! I’m a web designer with over 5 years of
+experience, dedicated to blending
+creativity with technical expertise. My sites are dynamic, user-friendly, and drive traffic to your online business. Reach
+out to me for any inquires. Together, we
+can create an extraordinary website! 
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -10,11 +16,19 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Hi, I'm Amanda!
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I’m a web designer with over 5 years of
+experience, dedicated to blending
+creativity with technical expertise. My sites are dynamic, user-friendly, and drive traffic to your online business. Reach
+out to me for any inquires. Together, we
+can create an extraordinary website!
 
-## Header 2
+## What I do
+
+*   Web Design
+*   Search Engine Optimization
+*   Wireframes & Sitemaps
 
 > This is a blockquote following a header.
 >
