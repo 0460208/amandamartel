@@ -14,7 +14,7 @@ can create an extraordinary website!
 ### Search Engine Optimization
 ### Wireframes & Sitemaps 
 
-[View Full Portfolio](./portfolio.html)
+[View Full Portfolio](./portfolio.html){: .btn}
 
 
 ## Recommendations
