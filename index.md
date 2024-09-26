@@ -8,31 +8,13 @@ creativity with technical expertise. My sites are dynamic, user-friendly, and dr
 can create an extraordinary website!
 
 
-## Web Design
+## What I Do
 
-From enhancing visual appeal to improving usability and performance, I collaborate closely with clients to understand their goals and deliver impactful redesigns that create a strong online presence.
+### Web Design
+### Search Engine Optimization
+### Wireframes & Sitemaps 
 
-## Search Engine Optimization
-
-I create SEO by conducting keyword research, optimizing website content, and improving site structure. Through strategic techniques and continuous monitoring, I improve website rankings and drive valuable traffic to businesses.
-
-#### Client: Clark State College
-[SEO Audit Report 2022](./another-page.html)
-
-#### Client: Brukner Nature Center
-[SEO Keyword Research 2024](./another-page.html)
-
-## Wireframes & Sitemaps
-
-
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
+[View Full Portfolio](./portfolio.html)
 
 
 
