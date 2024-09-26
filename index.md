@@ -2,20 +2,6 @@
 layout: default
 ---
 
-Hi, I'm Amanda! I’m a web designer with over 5 years of
-experience, dedicated to blending
-creativity with technical expertise. My sites are dynamic, user-friendly, and drive traffic to your online business. Reach
-out to me for any inquires. Together, we
-can create an extraordinary website! 
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # Hi, I'm Amanda!
 
 I’m a web designer with over 5 years of
@@ -32,11 +18,10 @@ can create an extraordinary website!
 *   Search Engine Optimization
 *   Wireframes & Sitemaps
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+### Letters of Recommendation
+
+" " 
 
 ```js
 // Javascript code with syntax highlighting.
