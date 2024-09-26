@@ -8,7 +8,6 @@ creativity with technical expertise. My sites are dynamic, user-friendly, and dr
 out to me for any inquires. Together, we
 can create an extraordinary website!
 
-[View Portfolio](./portfolio.html){: .btn}
 
 ## Web Design
 
@@ -16,9 +15,6 @@ can create an extraordinary website!
 
 ## Wireframes & Sitemaps
 
-*   Web Design
-*   Search Engine Optimization
-*   Wireframes & Sitemaps
 
 
 ### Letters of Recommendation
