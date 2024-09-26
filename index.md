@@ -8,13 +8,17 @@ creativity with technical expertise. My sites are dynamic, user-friendly, and dr
 can create an extraordinary website!
 
 
-## What I Do
+## My Services
 
 ### Web Design
 ### Search Engine Optimization
 ### Wireframes & Sitemaps 
 
 [View Full Portfolio](./portfolio.html)
+
+
+## Recommendations
+
 
 
 
