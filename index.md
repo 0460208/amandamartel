@@ -4,8 +4,7 @@ layout: default
 
 I’m a web designer with over 5 years of
 experience, dedicated to blending
-creativity with technical expertise. My sites are dynamic, user-friendly, and drive traffic to your online business. Reach
-out to me for any inquires. Together, we
+creativity with technical expertise. My sites are dynamic, user-friendly, and drive traffic to your online business. Together, we
 can create an extraordinary website!
 
 
