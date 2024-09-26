@@ -20,12 +20,12 @@
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
-          <button class="btn" a href="./resume.pdf" target="_blank">Download Resume</button>
+          <a class="btn" href="./resume.pdf" download="AmandaMartelResume">Download My Resume</a>
 
 
           {% if site.show_downloads %}
             <section id="downloads">
-                <a href="./resume.pdf" download="AmandaMartelResume">Download My Resume</a>
+                <a class="btn" href="./resume.pdf" download="AmandaMartelResume">Download My Resume</a>
             </section>
           {% endif %}
         </header>
