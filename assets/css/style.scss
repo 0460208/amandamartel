@@ -12,8 +12,8 @@ h1, h2, h3, h4 {
     font-family: "Playfair Display", serif;
 }
 
-#header_wrap {
-    padding: 500, 0;
+#header_wrap .inner {
+    padding: 300px 10px 30px 10px;
 }
 
 #main_content_wrap {
@@ -35,4 +35,8 @@ h1, h2, h3, h4 {
     max-width: 800px;
 }
 
-
+@media screen and (max-width: 480px) {
+    #downloads {
+        display: block;
+    }
+}
