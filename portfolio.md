@@ -2,15 +2,25 @@
 layout: default
 ---
 
-# Resume
 
-## Experience
+## Web Design
 
-## Education
+From enhancing visual appeal to improving usability and performance, I collaborate closely with clients to understand their goals and deliver impactful redesigns that create a strong online presence.
 
-## Skills
+## Search Engine Optimization
 
-## References
+I create SEO by conducting keyword research, optimizing website content, and improving site structure. Through strategic techniques and continuous monitoring, I improve website rankings and drive valuable traffic to businesses.
+
+#### Client: Clark State College
+[SEO Audit Report 2022](./another-page.html)
+
+#### Client: Brukner Nature Center
+[SEO Keyword Research 2024](./another-page.html)
+
+## Wireframes & Sitemaps
+
+
+
 
 _yay_
 
