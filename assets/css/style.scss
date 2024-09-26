@@ -4,5 +4,9 @@
 @import "{{ site.theme }}";
 
 #main_content_wrap {
-    background-color: red;
+    background-color: black;
+}
+
+#main_content {
+    background-color: green;
 }
