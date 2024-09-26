@@ -3,10 +3,11 @@
 
 @import "{{ site.theme }}";
 
+body {
+    color: white;
+}
+
 #main_content_wrap {
     background-color: black;
 }
 
-#main_content {
-    background-color: green;
-}
