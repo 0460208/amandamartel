@@ -2,7 +2,15 @@
 layout: default
 ---
 
-## Portfolio
+# Resume
+
+## Experience
+
+## Education
+
+## Skills
+
+## References
 
 _yay_
 
