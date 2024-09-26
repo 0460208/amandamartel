@@ -10,7 +10,11 @@ can create an extraordinary website!
 
 [View Portfolio](./portfolio.html){: .btn}
 
-## What I do
+## Web Design
+
+## Search Engine Optimization
+
+## Wireframes & Sitemaps
 
 *   Web Design
 *   Search Engine Optimization
