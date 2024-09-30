@@ -1,7 +1,7 @@
 {
   "name": "My-Landing-Page",
   "version": "0.1.1",
-  "homepage": "https://0460208/amandamartel.github.io",
+  "homepage": "https://amandamartel.github.io/My-Landing-Page",
   "private": true,
   "dependencies": {
     "react": "^16.8.4",
