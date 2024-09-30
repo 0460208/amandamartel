@@ -1,7 +1,5 @@
 ---
 layout: default
-title: Amanda Martel's Portfolio
-description: Portfolio Page
 ---
 
 ## My Work

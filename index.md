@@ -1,5 +1,5 @@
 ---
 layout: home
-title: Amanda Martel's Portfolio
-description: Portfolio Page
+title: Amanda Martel
+description: Web Designer & SEO Specialist
 ---
