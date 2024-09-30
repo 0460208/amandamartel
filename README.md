@@ -1,81 +1,116 @@
-<p align="center">
-  <a href="https://singhkshitij.github.io/My-Landing-Page/">
-    <img alt="My Landing Page" src="https://github.com/singhkshitij/My-Landing-Page/blob/master/sample/My%20Portfolio%20Page.png">
-  </a>
-</p>
+# The Cayman theme
 
-<h3 align="center">
-  Minimal Portfolio Page Built with React
-</h3>
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/cayman/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/cayman/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-cayman.svg)](https://badge.fury.io/rb/jekyll-theme-cayman)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Build-Passed-green.svg">
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
-  <img src="https://img.shields.io/travis/ReactTraining/react-router/master.svg?style=flat-square">
-  <img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg">
-  <img src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg">
-</p>
+*Cayman is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/cayman), or even [use it today](#usage).*
 
+![Thumbnail of Cayman](thumbnail.png)
 
-# Documentation : 
-   [https://github.com/singhkshitij/My-Landing-Page/wiki/](https://github.com/singhkshitij/My-Landing-Page/wiki/)
+## Usage
 
-## Demo
-  [https://singhkshitij.github.io/My-Landing-Page/](https://singhkshitij.github.io/My-Landing-Page/) <br/>
-  Note: Click on the page to see Magic
+To use the Cayman theme:
 
-## Why?
-One fine day i was going through GitHub and found an awesome concept on [Dinesh Pandiyan's Profile](https://github.com/flexdinesh/dev-landing-page) and saw that people really liked it and so did i. I really liked the minimalist approach and hence thought that i should take it a step forward. 
+1. Add the following to your site's `_config.yml`:
 
-Actually the original repo has some static files in which you need to manually go and edit the source code in order to get your landing page up and running. So i have bootstrapped the same content with create-react-app, i.e **REACTJS**. Now you only need to change one config file, run couple of commands and that's it. 
+    ```yml
+    remote_theme: pages-themes/cayman@v0.2.0
+    plugins:
+    - jekyll-remote-theme # add this line to the plugins list if you already have one
+    ```
 
-## What's Included ?
+2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
 
-Well you never know whats coming in future, but as of now it supports :
+    ```ruby
+    gem "github-pages", group: :jekyll_plugins
+    ```
 
-- Material Background with Dark and Light Mode toggle with a button click
+## Customizing
 
-  ![](https://raw.githubusercontent.com/singhkshitij/My-Landing-Page/master/sample/diff.png)
-  
--  Each Dark as well as Light Mode supports 7 color combos by default. (Total -14)
+### Configuration variables
 
-### Dark Backgrounds 
+Cayman will respect the following variables, if set in your site's `_config.yml`:
 
-![](https://github.com/singhkshitij/My-Landing-Page/blob/master/sample/Dark.png)
+```yml
+title: [The title of your site]
+description: [A short description of your site's purpose]
+```
 
-### Light Backgrounds
+Additionally, you may choose to set the following optional variables:
 
-![](https://github.com/singhkshitij/My-Landing-Page/blob/master/sample/light.png)
+```yml
+show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
+google_analytics: [Your Google Analytics tracking ID]
+```
 
-- Background Changes as and when you click anywhere on page.
-- Gradient Background Support with Free Flow Animation 
+### Stylesheet
 
-  ![](https://github.com/singhkshitij/My-Landing-Page/blob/master/sample/gradient.PNG)
+If you'd like to add your own custom styles:
 
-- Image background
+1. Create a file called `/assets/css/style.scss` in your site
+2. Add the following content to the top of the file, exactly as shown:
+    ```scss
+    ---
+    ---
 
-  ![](https://github.com/singhkshitij/My-Landing-Page/blob/master/sample/image.PNG)
+    @import "{{ site.theme }}";
+    ```
+3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
 
-- 'n' number of hyperlinked social profile support
-- Deploy the project on you GitHub account with couple of commands.
-- Changes can be made by just changing a config file :D
+*Note: If you'd like to change the theme's Sass variables, you must set new values before the `@import` line in your stylesheet.*
 
-  ![](https://github.com/singhkshitij/My-Landing-Page/blob/master/sample/conifgs.PNG)
+### Layouts
 
+If you'd like to change the theme's HTML layout:
 
-## Found Interesting ?
-Please star the repo if found useful as it'll help other devs to react the content. And yes **feel free to fork, clone, play around and make your own version .**
+1. For some changes such as a custom `favicon`, you can add custom files in your local `_includes` folder. The files [provided with the theme](https://github.com/pages-themes/cayman/tree/master/_includes) provide a starting point and are included by the [original layout template](https://github.com/pages-themes/cayman/blob/master/_layouts/default.html).
+2. For more extensive changes, [copy the original template](https://github.com/pages-themes/cayman/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
+3. Create a file called `/_layouts/default.html` in your site
+4. Paste the default layout content copied in the first step
+5. Customize the layout as you'd like
 
-## How about Contributing ?
-**Branch out the repo and customize on top. If your changes awe us, we will for sure merge them back to the repo**.
+### Customizing Google Analytics code
 
-Big Thanks to Our Contributors : 
+Google has released several iterations to their Google Analytics code over the years since this theme was first created. If you would like to take advantage of the latest code, paste it into `_includes/head-custom-google-analytics.html` in your Jekyll site.
 
-- [SeedBot](https://github.com/SeedBoot)
+### Overriding GitHub-generated URLs
 
-## Showcase your own Version !
-Have you changed something in the code to create your own version ? Feel free to share with us , we will list them in this space. 
+Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project. If you'd like to override one or more default URLs:
 
-1. @hashirshoaeb has created his own very beautiful version : https://hashirshoaeb.github.io/home/ 
+1. Look at [the template source](https://github.com/pages-themes/cayman/blob/master/_layouts/default.html) to determine the name of the variable. It will be in the form of `{{ site.github.zip_url }}`.
+2. Specify the URL that you'd like the template to use in your site's `_config.yml`. For example, if the variable was `site.github.url`, you'd add the following:
+    ```yml
+    github:
+      zip_url: http://example.com/download.zip
+      another_url: another value
+    ```
+3. When your site is built, Jekyll will use the URL you specified, rather than the default one provided by GitHub.
 
-Please give us a 💖 star 💖 to support us. Thank you.
+*Note: You must remove the `site.` prefix, and each variable name (after the `github.`) should be indent with two space below `github:`.*
+
+For more information, see [the Jekyll variables documentation](https://jekyllrb.com/docs/variables/).
+
+## Roadmap
+
+See the [open issues](https://github.com/pages-themes/cayman/issues) for a list of proposed features (and known issues).
+
+## Project philosophy
+
+The Cayman theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
+
+## Contributing
+
+Interested in contributing to Cayman? We'd love your help. Cayman is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
+
+### Previewing the theme locally
+
+If you'd like to preview the theme locally (for example, in the process of proposing a change):
+
+1. Clone down the theme's repository (`git clone https://github.com/pages-themes/cayman`)
+2. `cd` into the theme's directory
+3. Run `script/bootstrap` to install the necessary dependencies
+4. Run `bundle exec jekyll serve` to start the preview server
+5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
+
+### Running tests
+
+The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
