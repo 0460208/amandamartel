@@ -2,7 +2,7 @@
   "name": "My-Landing-Page",
   "version": "0.1.1",
   "homepage": "https://0460208.github.io/amandamartel.github.io/My-Landing-Page/",
-  "private": true,
+  "private": false,
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
