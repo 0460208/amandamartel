@@ -2,11 +2,9 @@
 layout: default
 ---
 
-## My Work
+## Web Design
 
-### Web Design
-
-### Search Engine Optimization
+## Search Engine Optimization
 
 Client: Clark State College 
 SEO Audit Report 2022
@@ -14,6 +12,6 @@ SEO Audit Report 2022
 Brukner Nature Center
 Keyword Anaylsis 2024
 
-### Wireframes & Sitemaps 
+## Wireframes & Sitemaps 
 
 [back](./)
