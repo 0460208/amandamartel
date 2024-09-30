@@ -1,81 +1,250 @@
+<!-- PROJECT LOGO -->
+<br />
 <p align="center">
-  <a href="https://singhkshitij.github.io/My-Landing-Page/">
-    <img alt="My Landing Page" src="https://github.com/singhkshitij/My-Landing-Page/blob/master/sample/My%20Portfolio%20Page.png">
-  </a>
+  <h1 align="center">Developer's Portfolio ✨</h1>
+
+  <p align="center">
+    It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. 
+    <br/>
+    <strong>Site URL / Demo » </strong> 
+    <a href="https://hashirshoaeb.github.io/home">hashirshoaeb.github.io/home</a>
+    <br />
+    <br />
+    <a href="https://hashirshoaeb.github.io">About Me</a>
+  </p>
 </p>
 
-<h3 align="center">
-  Minimal Portfolio Page Built with React
-</h3>
+![GitHub contributors](https://img.shields.io/github/contributors/hashirshoaeb/home?color=ffcc66&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/hashirshoaeb/home?color=ffcc66&style=for-the-badge)
+[![GitHub forks](https://img.shields.io/github/forks/hashirshoaeb/home?style=for-the-badge)](https://github.com/hashirshoaeb/star_book/network)
+[![GitHub issues](https://img.shields.io/github/issues/hashirshoaeb/home?color=ffcc66&style=for-the-badge)](https://github.com/hashirshoaeb/star_book/issues)
+[![GitHub license](https://img.shields.io/github/license/hashirshoaeb/home?style=for-the-badge)](https://github.com/hashirshoaeb/home/blob/master/LICENSE)
+[![Twitter Follow](https://img.shields.io/twitter/follow/hashirshoaeb?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/hashirshoaeb)
+[![Node Version](https://img.shields.io/static/v1?label=Node&message=^20.10.0&color=026e00&style=for-the-badge)](https://nodejs.org)
+[![npm Version](https://img.shields.io/static/v1?label=npm&message=^10.2.3&color=cb0000&style=for-the-badge)](https://nodejs.org)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Build-Passed-green.svg">
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
-  <img src="https://img.shields.io/travis/ReactTraining/react-router/master.svg?style=flat-square">
-  <img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg">
-  <img src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg">
-</p>
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About the project</a>
+      <ul>
+        <li>
+          <a href="#technology-stack-">Technology Stack 🛠️</a>
+        </li>
+        <li>
+          <a href="#structure-">Structure ⚓</a>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting started 💗</a>
+      <ul>
+        <li>
+          <a href="#prerequisites-">Prerequisites 🍪</a>
+        </li>
+        <li>
+          <a href="#setup-and-deployment-">Setup And Deployment 🔧</a>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <a href="#support-my-work">Support my work</a>
+    </li>
+    <li>
+      <a href="#showcase-">Showcase 🚀</a>
+    </li>
+    <li>
+      <a href="#versão-em-português-brazil">Versão em Português :brazil:</a>
+    </li>
+    <li>
+      <a href="#notice">Notice</a>
+    </li>
+    <li>
+      <a href="#stargazers-over-time">Stargazers over time</a>
+    </li>
+  </ol>
+</details>
+
+# About the project
+
+[![Site preview](/public/social-image.png)](https://hashirshoaeb.github.io/home)
 
 
-# Documentation : 
-   [https://github.com/singhkshitij/My-Landing-Page/wiki/](https://github.com/singhkshitij/My-Landing-Page/wiki/)
+## Technology stack 🛠️
 
-## Demo
-  [https://singhkshitij.github.io/My-Landing-Page/](https://singhkshitij.github.io/My-Landing-Page/) <br/>
-  Note: Click on the page to see Magic
+Dependencies defined in package.json:
 
-## Why?
-One fine day i was going through GitHub and found an awesome concept on [Dinesh Pandiyan's Profile](https://github.com/flexdinesh/dev-landing-page) and saw that people really liked it and so did i. I really liked the minimalist approach and hence thought that i should take it a step forward. 
+[Reactjs](https://reactjs.org/)
+| [Bootstrap](https://getbootstrap.com/)
+| [Typist](https://github.com/jstejada/react-typist)
+| [GitHub API](https://developer.github.com/v3/repos/)
+| [Instagram API](https://www.instagram.com/developer/embedding/)
 
-Actually the original repo has some static files in which you need to manually go and edit the source code in order to get your landing page up and running. So i have bootstrapped the same content with create-react-app, i.e **REACTJS**. Now you only need to change one config file, run couple of commands and that's it. 
+## Structure ⚓
 
-## What's Included ?
+- Navigation bar (optional)
+- Body
+  - Name | Profession
+  - Contact / Follow / Find me / Facebook / LinkedIn / GitHub / Instagram / Email / CodePen
+  - Resume | About me
+- About Me
+  - Display picture (optional)
+  - About myself, my Interests, Goals and Hobbies
+  - Things I'm good at (Skills)
+  - Resume button
+- Recent Projects (using GitHub API) (optional)
+- Leadership (optional)
+  - Paragraph
+  - Carousel images
+- Skills (optional)
+  - Technical Skills
+  - Soft Skills
+- Footer
+  - Footer Note (optional)
+  - Copyrights - open source
+  - Acknowledgements
 
-Well you never know whats coming in future, but as of now it supports :
+# Getting started 💗
 
-- Material Background with Dark and Light Mode toggle with a button click
+Project is open source. Feel free to make your own version. All you need to do is to fork this repository, edit [src/editable-stuff/config.js](./src/editable-stuff/config.js) and add resume. Mark star ⭐ if you like the project.
 
-  ![](https://raw.githubusercontent.com/singhkshitij/My-Landing-Page/master/sample/diff.png)
-  
--  Each Dark as well as Light Mode supports 7 color combos by default. (Total -14)
+## Prerequisites 🍪
 
-### Dark Backgrounds 
+You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/) installed on your PC. You should also own a GitHub account.
 
-![](https://github.com/singhkshitij/My-Landing-Page/blob/master/sample/Dark.png)
+## Setup And Deployment 🔧
 
-### Light Backgrounds
+1. To Get Started, Fork this repository to your GitHub account:
+2. Clone the forked repo from your account using:
 
-![](https://github.com/singhkshitij/My-Landing-Page/blob/master/sample/light.png)
+   ```bash
+     git clone https://github.com/<your-username>/home.git
+   ```
 
-- Background Changes as and when you click anywhere on page.
-- Gradient Background Support with Free Flow Animation 
+3. Open in editor and edit [src/editable-stuff/config.js](./src/editable-stuff/config.js) file.
 
-  ![](https://github.com/singhkshitij/My-Landing-Page/blob/master/sample/gradient.PNG)
+4. Add your resume as <resume.pdf> in place of [src/editable-stuff/resume.pdf](./src/editable-stuff/)
 
-- Image background
+5. Edit [title](./public/index.html#L34) and meta [description](./public/index.html#L13) in [public/index.html](./public/index.html).
+6. Change URL in [package.json](./package.json) file:
 
-  ![](https://github.com/singhkshitij/My-Landing-Page/blob/master/sample/image.PNG)
+   ```json
+    "homepage": "https://<your-username>.github.io/home"
+   ```
 
-- 'n' number of hyperlinked social profile support
-- Deploy the project on you GitHub account with couple of commands.
-- Changes can be made by just changing a config file :D
+   Or for deployment at custom domain, refer [create-react-app.dev](https://create-react-app.dev/docs/deployment/#step-1-add-homepage-to-packagejson)
 
-  ![](https://github.com/singhkshitij/My-Landing-Page/blob/master/sample/conifgs.PNG)
+7. After editing run the following bash commands:
 
+   ```bash
+   npm install
+   npm start
+   ```
 
-## Found Interesting ?
-Please star the repo if found useful as it'll help other devs to react the content. And yes **feel free to fork, clone, play around and make your own version .**
+8. To deploy website, run:
 
-## How about Contributing ?
-**Branch out the repo and customize on top. If your changes awe us, we will for sure merge them back to the repo**.
+   ```bash
+    npm run build
+    npm run deploy
+   ```
 
-Big Thanks to Our Contributors : 
+   Or for deployment at \<username>.github.io, refer [READMEdocs/custom-deployment.md](./READMEdocs/custom-deployment.md) and [pages.js](./pages.js)
 
-- [SeedBot](https://github.com/SeedBoot)
+9. Congrats your site is up and running. To see it live, visit:
 
-## Showcase your own Version !
-Have you changed something in the code to create your own version ? Feel free to share with us , we will list them in this space. 
+   ```https
+     https://<your-username>.github.io/home
+   ```
 
-1. @hashirshoaeb has created his own very beautiful version : https://hashirshoaeb.github.io/home/ 
+10. To change the thumbnail image:
 
-Please give us a 💖 star 💖 to support us. Thank you.
+    - Navigate to the "public" folder.  
+    - There you will see "social-image.png".  
+    - Delete it.   
+    - Take a screenshot of your version and rename it "social-image.png" and place it there.  
+    
+   Next time if you make changes, repeat from step 8.
+
+Facing issues? Feel free to contact at hashirshoaeb@gmail.com.
+
+# Support my work
+
+If you found this project valuable, please consider giving it a ⭐️ on GitHub. Your support keeps me motivated! If you'd like to further support my work, you can buy me a book. Thank you for your generosity!
+
+<div>
+  <a href="https://www.buymeacoffee.com/hashirshoaeb"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=hashirshoaeb&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+ </div>
+
+# Showcase 🚀
+
+Have you changed something in the code to create your own version? Feel free to share with me, I will list them in this space.
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/justiceserv/justiceserv.github.io">
+        <img src="READMEdocs/justiceserv-github-io-home.gif" width="300px" alt="" />
+        <br />
+        <sub><b>Guhyun Chung</b></sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/hamzasohail0/home/">
+        <img src="READMEdocs/hamzasohail0-github-io-home.gif" width="300px" alt="" />
+        <br />
+        <sub><b>Hamza Sohail</b></sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/AymunTariq/home/">
+        <img src="READMEdocs/aymuntariq-github-io-home.gif" width="300px" alt="" />
+        <br />
+        <sub><b>Aymun Tariq</b></sub>
+      </a>
+      <br />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/anaashrafi/home/">
+        <img src="READMEdocs/anaashrafi-github-io-home.gif" width="300px" alt="" />
+        <br />
+        <sub><b>Ana Ashrafi</b></sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/jefferyjohn/home/">
+        <img src="READMEdocs/jefferyjohn-github-io-home.gif" width="300px" alt="" />
+        <br />
+        <sub><b>Jeffery John</b></sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/remimestdagh/home/">
+        <img src="READMEdocs/remimestdagh-github-io-home.gif" width="300px" alt="" />
+        <br />
+        <sub><b>Remi Mestdagh</b></sub>
+      </a>
+      <br />
+    </td>
+  </tr>
+</table>
+
+# Versão em Português :brazil:
+
+Esse projeto foi traduzido para português! Se você gostou dele e quer criar a sua própria versão, confira o repositório do [@tashima42](https://github.com/tashima42) em [https://github.com/Tashima42/home](https://github.com/Tashima42/home).
+Novas contribuições e revisões na tradução são muito bem vindas!
+
+# Notice:
+
+This project has been **archived**. Means that it is no longer actively maintained by developer. Free free to fork, use and maintain your own version. You can check my new portfolio template [here](https://github.com/hashirshoaeb/portfolio)
+
+# Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/hashirshoaeb/home.svg)](https://starchart.cc/hashirshoaeb/home)
