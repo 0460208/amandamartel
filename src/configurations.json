@@ -1,7 +1,7 @@
 {
   "backgroundType": "plain",
   "plainBackgroundMode": "daylight",
-  "devIntro": "Hi, Im Amanda Martel",
+  "devIntro": "Hi, I'm Amanda Martel",
   "devDesc": "Web Designer and SEO Specialist",
   "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
   "backgroundImageUrl": "http://hdwpro.com/wp-content/uploads/2017/03/Art-Background-Image.png",
@@ -13,22 +13,6 @@
     {
       "image": "fa-github",
       "url": "https://github.com/singhkshitij"
-    },
-    {
-      "image": "fa-twitter",
-      "url": "https://twitter.com/ikshitijsingh"
-    },
-    {
-      "image": "fa-instagram",
-      "url": "https://www.instagram.com/singh_kshitij/"
-    },
-    {
-      "image": "fa-stack-overflow",
-      "url": "https://stackoverflow.com/users/7088832/kshitij-singh"
-    },
-    {
-      "image": "fa-linkedin",
-      "url": "https://www.linkedin.com/in/ikshitijsingh/"
     }
   ]
 }
