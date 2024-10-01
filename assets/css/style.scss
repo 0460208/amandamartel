@@ -21,7 +21,7 @@
 }
 
 
-.fa:before {
+.fa {
     color: white;
     margin: 20px;
     size: 200px;
@@ -30,4 +30,8 @@
 .fa:hover {
     color: rgb(178, 178, 179);
     margin: 20px;
+}
+
+.fa:before {
+    font-size: 100px;
 }
