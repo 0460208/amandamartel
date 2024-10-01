@@ -18,16 +18,17 @@
     font-size: 80px;
 }
 
-.container {
+/* .container {
     background-color: #81717d;
     background-image: linear-gradient(#9d909c, #bd8ab3, #7e3578);
     height: 100vh;
-     /* display: flex;
+      display: flex;
     justify-content: center;
     align-items: center;
     
-    Set the height of the container to the viewport height */
+    Set the height of the container to the viewport height 
 }
+*/
 
 .home-body {
     color: #fff;
@@ -56,19 +57,3 @@
     font-size: 50px;
 }
 
-/*
-.container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    /* Set the height of the container to the viewport height 
-}
-*/
-
-@media screen and (min-width: 900px) {
-    .container {
-        background-color: #81717d;
-        background-image: linear-gradient(#9d909c, #bd8ab3, #7e3578);
-    }
-}
