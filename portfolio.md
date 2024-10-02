@@ -4,7 +4,7 @@ title: My Work
 ---
 
 ## Web Design
-[alt text](img/bruknerlg.png) [alt text](image_url) [alt text](image_url)
+[alt text](img/bruknerpagelg.png) [alt text](image_url) [alt text](image_url)
 
 ## Search Engine Optimization
 
