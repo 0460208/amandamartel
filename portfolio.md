@@ -51,22 +51,6 @@ View the [Live Website](https://www.bruknernaturecenter.com/)
 			</figure>
 		</a>
 	</li>
-	<li>
-		<a href="">
-			<figure>
-				<img src='https://images.unsplash.com/photo-1633515257379-5fda985bd57a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTYzNDA1MjA5OA&ixlib=rb-1.2.1&q=80&w=400' alt='Street scene with person walking and others on motorbikes, all wearing masks'>
-				<figcaption>Street scenes</figcaption>
-			</figure>
-		</a>
-	</li>
-	<li>
-		<a href="">
-			<figure>
-				<img src='https://images.unsplash.com/photo-1633209931146-260ce0d16e22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTYzNDA1MjA5OA&ixlib=rb-1.2.1&q=80&w=400' alt='Fashionable-looking girl with blond hair and pink sunglasses'>
-				<figcaption>Trending</figcaption>
-			</figure>
-		</a>
-	</li>
 </ul>
 </div>
 ## Search Engine Optimization
