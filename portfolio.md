@@ -5,6 +5,7 @@ title: My Work
 
 ## Web Design
 [alt text](img/bruknerpagelg.png) [alt text](image_url) [alt text](image_url)
+<img src="img/bruknerpagelg.png" alt="brukner web design"> 
 
 ## Search Engine Optimization
 
