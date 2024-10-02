@@ -259,6 +259,7 @@ $desktopLarge: 1440px;
 		height: 100%;
 		object-fit: cover;
 		transition: .3s;
+        object-position: 50% 0%;
 		
 		&:hover {
 			transform: scale(1.1);
