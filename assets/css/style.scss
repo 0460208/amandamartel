@@ -11,9 +11,7 @@
 
 .project-name {
     font-family: "Satisfy", cursive;
-    font-weight: 100;
     font-style: normal;
-    font-size: 72px;
 }
 
 
@@ -273,3 +271,11 @@ $desktopLarge: 1440px;
 		transition: .3s;
 	}
 }
+
+
+/* mobile view */
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
