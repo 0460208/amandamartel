@@ -277,8 +277,8 @@ $desktopLarge: 1440px;
 
 /* mobile view */
 @media only screen and (max-width: 600px) {
-    body {
-      background-color: lightblue;
+    svg text {
+      animation: none;
     }
   }
 
