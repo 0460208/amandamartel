@@ -16,7 +16,7 @@ Trello
 Design Principles
 
 View the [Live Website](https://www.bruknernaturecenter.com/)
-<img src="img/bruknerpagelg.png" alt="brukner web design"> 
+
 <div class="gallery-body">
 <ul>
 	<li>
