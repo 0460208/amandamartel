@@ -21,6 +21,9 @@ View the [Live Website](https://www.bruknernaturecenter.com/)
 <ul>
 	<li>
 		<a href="">
+        <a href="img/wizard.png" target="_blank">
+    <img width="220" height="250" border="0" align="center"  src="img/wizard.png" alt=""/>
+  </a>
 			<figure>
 				<img src='img/wizard.png' alt='Volcano and lava field against a stormy sky'>
 				<figcaption>The Social Media Wizard</figcaption>
