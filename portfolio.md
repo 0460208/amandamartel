@@ -4,7 +4,18 @@ title: My Work
 ---
 
 ## Web Design
-[alt text](img/bruknerpagelg.png) [alt text](image_url) [alt text](image_url)
+
+A website redesign for Brunker Nature Center in Troy, Ohio.
+
+Skills:
+HTML
+CSS
+JavaScript
+Squarespace
+Trello
+Design Principles
+
+View the [Live Website](https://www.bruknernaturecenter.com/)
 <img src="img/bruknerpagelg.png" alt="brukner web design"> 
 
 ## Search Engine Optimization
