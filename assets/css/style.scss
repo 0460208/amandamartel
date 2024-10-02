@@ -97,7 +97,7 @@ img {
 	width: 100%;
 	display: block;
 	aspect-ratio: 1 / 1;
-	/* object-fit: cover; */
+	object-fit: contain;
 	transition: transform 1000ms;
 }
 
