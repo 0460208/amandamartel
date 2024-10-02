@@ -66,21 +66,21 @@ Keyword Anaylsis 2024
 <div class="second-gallery">
 		<a href="https://unsplash.com/@jeka_fe" target="_blank" class="gallery__link">
 			<figure class="gallery__thumb">
-				<img src="https://images.unsplash.com/photo-1519699047748-de8e457a634e?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Portrait by Jessica Felicio" class="gallery__image">
+				<img src="img/wizard.png" alt="Portrait by Jessica Felicio" class="gallery__image">
 				<figcaption class="gallery__caption">Portrait by Jessica Felicio</figcaption>
 			</figure>
 		</a>
 
 <a href="https://unsplash.com/@oladimeg" target="_blank" class="gallery__link">
 			<figure class="gallery__thumb">
-				<img src="https://images.unsplash.com/photo-1504834636679-cd3acd047c06?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Portrait by Oladimeji Odunsi" class="gallery__image">
+				<img src="img/bruknerredesign2022.png" alt="Portrait by Oladimeji Odunsi" class="gallery__image">
 				<figcaption class="gallery__caption">Portrait by Oladimeji Odunsi</figcaption>
 			</figure>
 		</a>
 
 <a href="https://unsplash.com/@oladimeg" target="_blank" class="gallery__link">
 			<figure class="gallery__thumb">
-				<img src="https://images.unsplash.com/photo-1542513217-0b0eedf7005d?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Portrait by Alex Perez" class="gallery__image">
+				<img src="img/coffeeshop.png" alt="Portrait by Alex Perez" class="gallery__image">
 				<figcaption class="gallery__caption">Portrait by Oladimeji Odunsi</figcaption>
 			</figure>
 		</a>
