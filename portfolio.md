@@ -17,7 +17,7 @@ Design Principles
 
 View the [Live Website](https://www.bruknernaturecenter.com/)
 <img src="img/bruknerpagelg.png" alt="brukner web design"> 
-
+<div class="gallery-body">
 <ul>
 	<li>
 		<a href="">
@@ -68,7 +68,7 @@ View the [Live Website](https://www.bruknernaturecenter.com/)
 		</a>
 	</li>
 </ul>
-
+</div>
 ## Search Engine Optimization
 
 Client: Clark State College 
