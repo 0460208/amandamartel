@@ -22,7 +22,7 @@ View the [Live Website](https://www.bruknernaturecenter.com/)
 	<li>
 		<a href="img/wizard.png" target="_blank">
 			<figure>
-				<img src='img/wizard.png' alt='Volcano and lava field against a stormy sky'>
+				<img src='img/wizard.png' alt='HTML and CSS page for Social Media Wizard Website Homepage'>
 				<figcaption>The Social Media Wizard</figcaption>
 			</figure>
 		</a>
@@ -30,7 +30,7 @@ View the [Live Website](https://www.bruknernaturecenter.com/)
 	<li>
 		<a href="img/bruknerredesign2022.png" target="_blank">
 			<figure>
-				<img src='img/bruknerredesign2022.png' alt='Guy on a bike ok a wooden bridge with a forest backdrop'>
+				<img src='img/bruknerredesign2022.png' alt='HTML and CSS page for Brukner Nature Center Website Redesign Homepage'>
 				<figcaption>Brukner Nature Center</figcaption>
 			</figure>
 		</a>
@@ -38,7 +38,7 @@ View the [Live Website](https://www.bruknernaturecenter.com/)
 	<li>
 		<a href="img/coffeeshop.png" target="_blank">
 			<figure>
-				<img src='img/coffeeshop.png' alt='Person standing alone in a misty forest'>
+				<img src='img/coffeeshop.png' alt='HTML and CSS page for a Coffee Shop Homepage'>
 				<figcaption>Coffee Shop</figcaption>
 			</figure>
 		</a>
