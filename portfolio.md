@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Work
+title: Amanda's Work
 ---
 
 ## Brukner Nature Center - Full Website Redesign
