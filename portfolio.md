@@ -104,7 +104,7 @@ Check out the [Live Website!](https://www.bruknernaturecenter.com/){:target="_bl
 -->
 
 ## Search Engine Optimization
-Clark State College: [SEO Audit Report 2022](./clarkstateseo){:target="_blank"}
+Clark State College: [SEO Audit Report 2022](./clarkstateseo.pdf){:target="_blank"}
 
 Brukner Nature Center: [SEO Keyword Anaylsis 2024](./bruknerseo.pdf){:target="_blank"}
 
