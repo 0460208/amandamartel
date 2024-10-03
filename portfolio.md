@@ -43,14 +43,14 @@ Check out the [Live Website!](https://www.bruknernaturecenter.com/){:target="_bl
 		<a href="img/wizard.png" target="_blank" class="gallery__link">
 			<figure class="gallery__thumb">
 				<img src="img/wizard.png" alt="HTML & CSS Project for Social Media Wizard homepage" class="gallery__image">
-				<figcaption class="gallery__caption">HTML & CSS Project for Social Media Wizard</figcaption>
+				<figcaption class="gallery__caption">HTML & CSS Homepage for Social Media Wizard</figcaption>
 			</figure>
 		</a>
 
 <a href="img/bruknerredesign2022.png" target="_blank" class="gallery__link">
 			<figure class="gallery__thumb">
 				<img src="img/bruknerredesign2022.png" alt="Website Redesign Project for Brukner Nature Center" class="gallery__image">
-				<figcaption class="gallery__caption">Website Redesign Project for Brukner Nature Center</figcaption>
+				<figcaption class="gallery__caption">Redesign Proposal for Brukner Nature Center</figcaption>
 			</figure>
 		</a>
 
