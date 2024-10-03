@@ -8,17 +8,16 @@ View the [Live Website](https://www.bruknernaturecenter.com/){:target="_blank"}
 
 Brukner Nature Center is a nonprofit environmental education organization situated in Troy, Ohio. Alongside two peers, we completed a full website redesign aimed at strengthening the design, usability, and functionality of the site. Our redesign introduced a fresh visual identity and improved navigation, significantly enhancing user engagement and making educational content more accessible to the community.
 
-#### Key Enhancements
+### Key Enhancements
 	
-Website is now mobile responsive
-Improved overall user experience
-Simplified navigation 
-Enhanced aesthetic appeal
-Implemented custom SEO for increased traffic
+	Website is now mobile responsive
+	Improved overall user experience
+	Simplified navigation 
+	Enhanced aesthetic appeal
+	Implemented custom SEO for increased traffic
 
 
 ## Other Design Projects
-
 <div class="gallery-body">
 <ul>
 	<li>
@@ -55,15 +54,15 @@ Implemented custom SEO for increased traffic
 	</li>
 </ul>
 </div>
-## Search Engine Optimization
 
+## Search Engine Optimization
 Client: Clark State College 
-SEO Audit Report 2022
+[SEO Audit Report 2022]()
 
 Brukner Nature Center
-Keyword Anaylsis 2024
+[SEO Keyword Anaylsis 2024]()
 
-## Wireframes & Sitemaps 
+## Achievements & Certificates
 
 <div class="second-gallery">
 		<a href="https://unsplash.com/@jeka_fe" target="_blank" class="gallery__link">
