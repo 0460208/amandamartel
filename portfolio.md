@@ -10,9 +10,6 @@ Brukner Nature Center is a nonprofit environmental education organization situat
 Check out the [Live Website!](https://www.bruknernaturecenter.com/){:target="_blank"}
 
 <div class="float">
-<div class="div2">
-<img src="img/bruknerredesign/bruknerbirdvista.png">
-</div>
 
 <div class="div1">
 <h3>Key Enhancements</h3>
@@ -32,6 +29,10 @@ Check out the [Live Website!](https://www.bruknernaturecenter.com/){:target="_bl
 </ul>
 </div>
 
+</div>
+
+<div class="div2">
+<img src="img/bruknerredesign/bruknerbirdvista.png">
 </div>
 
 ## Other Design Projects
