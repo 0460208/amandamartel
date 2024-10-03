@@ -10,12 +10,18 @@
     font-size: 2em;
 }
 
-.project-name {
+/* .project-name {
     font-family: "Lorna", cursive;
     font-style: normal;
     font-size: 2em;
 }
+*/
 
+.project-name {
+	font-family: "Yeseva One", serif;
+	font-weight: 400;
+	font-style: normal;
+  }
 
 .container {
     color: #fff;
@@ -283,6 +289,7 @@ $desktopLarge: 1440px;
     }
   }
 
+  /* svg */
   svg text {
     font-family: Lora;
     letter-spacing: 10px;
@@ -310,6 +317,9 @@ $desktopLarge: 1440px;
     }
     
   }
+
+
+  
   
   
   
