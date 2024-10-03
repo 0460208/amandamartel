@@ -51,7 +51,7 @@ Brukner Nature Center is a nonprofit environmental education organization situat
 
 
 
-<!-- 2x2 gallery -->
+<!-- 2x2 gallery 
 <div class="gallery-body">
 <ul>
 	<li>
@@ -88,6 +88,7 @@ Brukner Nature Center is a nonprofit environmental education organization situat
 	</li>
 </ul>
 </div>
+-->
 
 ## Search Engine Optimization Projects
 Clark State College: [SEO Audit Report 2022]()
