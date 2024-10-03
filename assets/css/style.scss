@@ -72,22 +72,15 @@ html, body {
 	height: auto;
 } 
 */
-div {
+.div1 {
 	float: left;
 	padding: 15px; 
   }
   
-  .div1 {
-	background: red;
-  }
-  
-  .div2 {
-	background: yellow;
-  }
-  
-  .div3 {
-	background: green;
-  }
+.div2 {
+	float: left;
+	padding: 15px;
+}
 
 .fa:hover {
     color: rgb(104, 104, 104);
