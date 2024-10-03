@@ -76,13 +76,14 @@ html, body {
 }
 
 .div1 {
-	float: left;
-	padding: 5px; 
+	margin: 0 0 0 15px;
 	width: 30%;
 	height: auto;
+	padding: 10px;
   }
   
-.div2 {  
+.div2 {
+	float: right;  
  	margin: 0 0 0 15px;
 	width: 40%;
 	height: auto;
