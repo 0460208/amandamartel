@@ -58,11 +58,6 @@ html, body {
 }
 
 
-/* social icons */
-.fa {
-    color: white;
-    margin: 20px;
-}
 
 /* imgs 
 #bruknerimg {
@@ -90,8 +85,14 @@ html, body {
 	height: auto;
 }
 
+/* social icons */
+.fa {
+    color: white;
+    margin: 20px;
+}
+
 .fa:hover {
-    color: rgb(104, 104, 104);
+    color: rgb(215, 231, 233);
     text-decoration: none;
     font-size: 34px;
 }
