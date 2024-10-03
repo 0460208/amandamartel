@@ -113,7 +113,7 @@ Outstanding Student Award 2024 from Clark State College
 
 Social Media Marketing Certificate 2021 from Clark State College
 
-New Media Certificate from Clark State College
+New Media Certificate from 2021 Clark State College
 
 
 [back](./)
