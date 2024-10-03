@@ -72,17 +72,21 @@ html, body {
 	height: auto;
 } 
 */
-#floatdiv {
+div {
 	float: left;
 	padding: 15px; 
   }
   
   .div1 {
-	border: blue;
+	background: red;
   }
   
   .div2 {
-	border: red;
+	background: yellow;
+  }
+  
+  .div3 {
+	background: green;
   }
 
 .fa:hover {
