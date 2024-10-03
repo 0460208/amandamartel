@@ -17,8 +17,6 @@
     {% include head-custom.html %}
   </head>
   <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
-
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
@@ -28,7 +26,7 @@
         <a href="https://github.com/0460208/ampublicportfolio" i class="fa fa-github" target="_blank"></a>
         </br>
 
-      <div class="btns">
+      <div id="resumebtn">
       {% if site.show_downloads %}
       <a href="resume.pdf" download="AmandaMartelResume" class="btn">Resume</a>
       {% endif %}
