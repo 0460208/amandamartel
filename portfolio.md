@@ -10,11 +10,11 @@ Brukner Nature Center is a nonprofit environmental education organization situat
 
 #### Key Enhancements
 	
-	Website is now mobile responsive
-	Improved overall user experience
-	Simplified navigation 
-	Enhanced aesthetic appeal
-	Implemented custom SEO for increased traffic
+Website is now mobile responsive
+Improved overall user experience
+Simplified navigation 
+Enhanced aesthetic appeal
+Implemented custom SEO for increased traffic
 
 
 ## Other Design Projects
