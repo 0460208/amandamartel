@@ -40,21 +40,21 @@ View the [Live Website](https://www.bruknernaturecenter.com/){:target="_blank"}
 ## Other Design Projects
 <!-- 1x3 gallery -->
 <div class="second-gallery">
-		<a href="https://unsplash.com/@jeka_fe" target="_blank" class="gallery__link">
+		<a href="img/wizard.png" target="_blank" class="gallery__link">
 			<figure class="gallery__thumb">
 				<img src="img/wizard.png" alt="HTML & CSS Project for Social Media Wizard homepage" class="gallery__image">
 				<figcaption class="gallery__caption">HTML & CSS Project for Social Media Wizard</figcaption>
 			</figure>
 		</a>
 
-<a href="https://unsplash.com/@oladimeg" target="_blank" class="gallery__link">
+<a href="img/bruknerredesign2022.png" target="_blank" class="gallery__link">
 			<figure class="gallery__thumb">
 				<img src="img/bruknerredesign2022.png" alt="Website Redesign Project for Brukner Nature Center" class="gallery__image">
 				<figcaption class="gallery__caption">Website Redesign Project for Brukner Nature Center</figcaption>
 			</figure>
 		</a>
 
-<a href="https://unsplash.com/@oladimeg" target="_blank" class="gallery__link">
+<a href="img/coffeeshop.png" target="_blank" class="gallery__link">
 			<figure class="gallery__thumb">
 				<img src="img/coffeeshop.png" alt="Passion Project for a Coffee Shop homepage." class="gallery__image">
 				<figcaption class="gallery__caption">Passion Project for a Coffee Shop</figcaption>
@@ -104,9 +104,9 @@ View the [Live Website](https://www.bruknernaturecenter.com/){:target="_blank"}
 -->
 
 ## Search Engine Optimization
-Clark State College: [SEO Audit Report 2022]()
+Clark State College: [SEO Audit Report 2022](./clarkstateseo){:target="_blank"}
 
-Brukner Nature Center: [SEO Keyword Anaylsis 2024]()
+Brukner Nature Center: [SEO Keyword Anaylsis 2024](./bruknerseo.pdf){:target="_blank"}
 
 ## Achievements & Certificates
 
