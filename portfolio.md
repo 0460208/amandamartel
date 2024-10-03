@@ -12,6 +12,7 @@ Brukner Nature Center is a nonprofit environmental education organization situat
 <div class="div2">
 <img src="img/bruknerredesign/bruknerbirdvista.png">
 </div>
+
 <div class="div1">
 ### Key Enhancements
 	
