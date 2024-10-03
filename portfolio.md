@@ -29,9 +29,6 @@ Check out the [Live Website!](https://www.bruknernaturecenter.com/){:target="_bl
 	<li>
 		Implemented custom SEO for increased traffic
 	</li>
-	<li>
-		Website is now mobile responsive
-	</li>
 </ul>
 </div>
 
