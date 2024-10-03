@@ -25,6 +25,33 @@ Brukner Nature Center is a nonprofit environmental education organization situat
 
 
 ## Other Design Projects
+<!-- 1x3 gallery -->
+<div class="second-gallery">
+		<a href="https://unsplash.com/@jeka_fe" target="_blank" class="gallery__link">
+			<figure class="gallery__thumb">
+				<img src="img/wizard.png" alt="HTML & CSS Project for Social Media Wizard homepage" class="gallery__image">
+				<figcaption class="gallery__caption">HTML & CSS Project for Social Media Wizard</figcaption>
+			</figure>
+		</a>
+
+<a href="https://unsplash.com/@oladimeg" target="_blank" class="gallery__link">
+			<figure class="gallery__thumb">
+				<img src="img/bruknerredesign2022.png" alt="Website Redesign Project for Brukner Nature Center" class="gallery__image">
+				<figcaption class="gallery__caption">Website Redesign Project for Brukner Nature Center</figcaption>
+			</figure>
+		</a>
+
+<a href="https://unsplash.com/@oladimeg" target="_blank" class="gallery__link">
+			<figure class="gallery__thumb">
+				<img src="img/coffeeshop.png" alt="Passion Project for a Coffee Shop homepage." class="gallery__image">
+				<figcaption class="gallery__caption">Passion Project for a Coffee Shop</figcaption>
+			</figure>
+		</a>
+</div>
+
+
+
+<!-- 2x2 gallery -->
 <div class="gallery-body">
 <ul>
 	<li>
@@ -69,27 +96,5 @@ Brukner Nature Center: [SEO Keyword Anaylsis 2024]()
 
 ## Achievements & Certificates
 
-<div class="second-gallery">
-		<a href="https://unsplash.com/@jeka_fe" target="_blank" class="gallery__link">
-			<figure class="gallery__thumb">
-				<img src="img/wizard.png" alt="Portrait by Jessica Felicio" class="gallery__image">
-				<figcaption class="gallery__caption">Portrait by Jessica Felicio</figcaption>
-			</figure>
-		</a>
-
-<a href="https://unsplash.com/@oladimeg" target="_blank" class="gallery__link">
-			<figure class="gallery__thumb">
-				<img src="img/bruknerredesign2022.png" alt="Portrait by Oladimeji Odunsi" class="gallery__image">
-				<figcaption class="gallery__caption">Portrait by Oladimeji Odunsi</figcaption>
-			</figure>
-		</a>
-
-<a href="https://unsplash.com/@oladimeg" target="_blank" class="gallery__link">
-			<figure class="gallery__thumb">
-				<img src="img/coffeeshop.png" alt="Portrait by Alex Perez" class="gallery__image">
-				<figcaption class="gallery__caption">Portrait by Oladimeji Odunsi</figcaption>
-			</figure>
-		</a>
-</div>
 
 [back](./)
