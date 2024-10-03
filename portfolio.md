@@ -8,7 +8,8 @@ View the [Live Website](https://www.bruknernaturecenter.com/){:target="_blank"}
 
 Brukner Nature Center is a nonprofit environmental education organization situated in Troy, Ohio. Alongside two peers, we completed a full website redesign aimed at strengthening the design, usability, and functionality of the site. Our redesign introduced a fresh visual identity and improved navigation, significantly enhancing user engagement and making educational content more accessible to the community.
 
-<div id="enhancements">
+<div class="floatdiv">
+<div class="div1">
 ### Key Enhancements
 	
 	Website is now mobile responsive
@@ -17,7 +18,11 @@ Brukner Nature Center is a nonprofit environmental education organization situat
 	Enhanced aesthetic appeal
 	Implemented custom SEO for increased traffic
 </div>
-<img id="bruknerimg" src="img/bruknerredesign/bruknerbirdvista.png">
+
+<div class="div2">
+<img src="img/bruknerredesign/bruknerbirdvista.png">
+</div>
+</div>
 
 ## Other Design Projects
 <div class="gallery-body">

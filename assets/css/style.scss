@@ -64,20 +64,26 @@ html, body {
     margin: 20px;
 }
 
-/* imgs */
+/* imgs 
 #bruknerimg {
 	float: right;    
  	margin: 0 0 0 15px;
 	width: 60%;
 	height: auto;
 } 
-
-#enhancements {
-	float: left;    
-	margin: 0 0 0 15px;
-  	width: 30%;
-	height: auto;
-}
+*/
+.floatdiv {
+	float: left;
+	padding: 15px; 
+  }
+  
+  .div1 {
+	border: blue;
+  }
+  
+  .div2 {
+	border: red;
+  }
 
 .fa:hover {
     color: rgb(104, 104, 104);
