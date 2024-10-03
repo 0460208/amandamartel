@@ -337,15 +337,14 @@ $desktopLarge: 1440px;
 
 /* mobile view */
 @media only screen and (max-width: 600px) {
-	#bruknerimg {
-		float: none; 
-		margin: 0 0 0 15px;
-		width: 60%;
-		height: auto;
+	.div1,
+	.div2 {
+	  float: none;
+	  width: 100%;
 	}
   }
 
-  /* svg */
+  /* svg 
   svg text {
     font-family: Lora;
     letter-spacing: 10px;
@@ -374,7 +373,7 @@ $desktopLarge: 1440px;
     
   }
 
-
+*/
   
   
   
