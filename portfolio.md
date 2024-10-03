@@ -35,6 +35,7 @@ Check out the [Live Website!](https://www.bruknernaturecenter.com/){:target="_bl
 <img src="img/bruknerredesign/bruknerbirdvista.png">
 </div>
 
+
 ## Other Design Projects
 <!-- 1x3 gallery -->
 <div class="second-gallery">

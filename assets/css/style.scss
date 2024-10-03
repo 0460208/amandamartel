@@ -17,7 +17,7 @@
 	font-size: 34px;
   }
 
-h2 {
+#portfolio-body h2 {
 	padding-top: 50px;
 }
 
@@ -78,7 +78,10 @@ html, body {
 .div2 {
   float: left;
   width: 50%;
-  padding-top: 20px;
+}
+
+.div2 img {
+	padding: 20px;
 }
 
 /* .float {
