@@ -70,7 +70,13 @@ html, body {
 } 
 */
 
-.float {
+.div1,
+.div2 {
+  float: left;
+  width: 50%;
+}
+
+/* .float {
 	float: left;
 	padding: 10px; 
 }
@@ -83,7 +89,9 @@ html, body {
 	padding: 10px;
   }
 
-/* .div2 {
+
+
+ .div2 {
 	  background: red;
 	float: left;
 	margin: 0 0 0 15px;
@@ -91,7 +99,7 @@ html, body {
 	height: auto;
 	padding: 10px;
   }
-*/
+
 
 .div2 img {
 	width: 600px;
@@ -99,6 +107,7 @@ html, body {
 	object-fit: contain;
 	
 }
+*/
 
 ul {
 	list-style-type: circle;
