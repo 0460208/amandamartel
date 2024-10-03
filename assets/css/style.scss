@@ -40,6 +40,10 @@ html, body {
     animation: gradient 15s ease infinite;
 }
 
+#portfolio-body {
+	background-color: rgb(206, 175, 73);
+}
+
 @keyframes gradient {
     0% {
         background-position: 0% 50%;
@@ -66,12 +70,12 @@ html, body {
 	width: 60%;
 	height: auto;
 } 
+*/
 
 .float {
 	float: left;
 	padding: 15px; 
 }
-*/
 
 .div1 {
 	float: left;
