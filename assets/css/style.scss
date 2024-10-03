@@ -289,9 +289,12 @@ $desktopLarge: 1440px;
 
 /* mobile view */
 @media only screen and (max-width: 600px) {
-    svg text {
-      animation: none;
-    }
+	#bruknerimg {
+		float: none; 
+		margin: 0 0 0 15px;
+		width: 60%;
+		height: auto;
+	}
   }
 
   /* svg */

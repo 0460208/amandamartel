@@ -56,12 +56,10 @@ Brukner Nature Center is a nonprofit environmental education organization situat
 </ul>
 </div>
 
-## Search Engine Optimization
-Client: Clark State College 
-[SEO Audit Report 2022]()
+## Search Engine Optimization Projects
+Clark State College: [SEO Audit Report 2022]()
 
-Brukner Nature Center
-[SEO Keyword Anaylsis 2024]()
+Brukner Nature Center: [SEO Keyword Anaylsis 2024]()
 
 ## Achievements & Certificates
 
