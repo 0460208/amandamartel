@@ -82,14 +82,23 @@ html, body {
 	height: auto;
 	padding: 10px;
   }
+
+  .div2 {
+	  background: red;
+	float: left;
+	margin: 0 0 0 15px;
+	width: 40%;
+	height: auto;
+	padding: 10px;
+  }
   
 
 
 .div2 img {
-	width: 400px;
+	width: 600px;
 	height: auto;
+	object-fit: contain;
 	
-
 }
 
 ul {
