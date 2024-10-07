@@ -48,7 +48,6 @@ Check out the <a href="https://www.bruknernaturecenter.com/" target="_blank">Liv
 
 </div>
 
-<br>
 
 ## Other Design Projects
 <!-- 1x3 gallery -->
