@@ -103,6 +103,7 @@ Clark State College: [SEO Audit Report 2022](./clarkstateseo.pdf){:target="_blan
 
 Brukner Nature Center: [SEO Keyword Anaylsis 2024](./bruknerseo.pdf){:target="_blank"}
 
+
 ## Achievements & Certificates
 
 Outstanding Student Award, from Clark State College 2024 
@@ -110,7 +111,6 @@ Outstanding Student Award, from Clark State College 2024
 Social Media Marketing Certificate, from Clark State College 2021
 
 New Media Certificate, from Clark State College 2021
-
 
 
 [back](./)
