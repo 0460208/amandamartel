@@ -357,3 +357,9 @@ ul {
 .image-container img:hover {
 	transform: scale(1.2);
 }
+
+@media screen and (max-width: 42em) {
+    video {
+        width: 280px;
+    }
+}
