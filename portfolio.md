@@ -105,17 +105,17 @@ Brukner Nature Center is a nonprofit environmental education organization situat
 -->
 
 ## Search Engine Optimization
-Clark State College: [SEO Audit Report 2022](./clarkstateseo.pdf){:target="_blank"}
+    Clark State College: [SEO Audit Report 2022](./clarkstateseo.pdf){:target="_blank"}
 
-Brukner Nature Center: [SEO Keyword Anaylsis 2024](./bruknerseo.pdf){:target="_blank"}
+    Brukner Nature Center: [SEO Keyword Anaylsis 2024](./bruknerseo.pdf){:target="_blank"}
 
 ## Achievements & Certificates
 
-Outstanding Student Award 2024 from Clark State College
+    Outstanding Student Award, from Clark State College - 2024
 
-Social Media Marketing Certificate 2021 from Clark State College
+    Social Media Marketing Certificate, from Clark State College - 2021
 
-New Media Certificate from 2021 Clark State College
+    New Media Certificate, from Clark State College -  2021
 
 
 [back](./)
