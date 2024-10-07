@@ -345,7 +345,6 @@ $desktopLarge: 1440px;
 ul {
 	list-style-type: circle;
 	list-style: circle;
-	margin-left: 20px;
 }
 
 .image-container img {
@@ -353,5 +352,5 @@ ul {
 }
 
 .image-container img:hover {
-	transform: scale(1.2);
+	transform: scale(2.0);
 }
