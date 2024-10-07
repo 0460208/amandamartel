@@ -120,9 +120,10 @@ Brukner Nature Center: [SEO Keyword Anaylsis 2024](./bruknerseo.pdf){:target="_b
 
 **Outstanding Student Award**, from Clark State College - 2024
 
-Social Media Marketing Certificate, from Clark State College - 2021
+**Social Media Marketing Certificate**, from Clark State College - 2021
 
-New Media Certificate, from Clark State College -  2021
+**New Media Certificate**, from Clark State College -  2021
 
+<br>
 
 [back](./)
