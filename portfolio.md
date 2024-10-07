@@ -40,6 +40,12 @@ Check out the <a href="https://www.bruknernaturecenter.com/" target="_blank">Liv
 "img/bruknerredesign/bruknerbirdvista.png" 
              alt="Bird Vista Website Page by Amanda Martel" />
 </div>
+
+<video width="320" height="240" autoplay>
+  <source src="bruknerdemo.mp4" type="video/mp4">
+</video>
+
+
 </div>
 
 <br>
