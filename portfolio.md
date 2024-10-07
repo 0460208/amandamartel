@@ -33,14 +33,15 @@ Brukner Nature Center is a nonprofit environmental education organization situat
 <!-- </div> -->
 
 <div class="div2">
-<img src="img/bruknerredesign/bruknerbirdvista.png">
+<!-- <img src="img/bruknerredesign/bruknerbirdvista.png"> -->
+<div class="image-container">
+        <img src=
+"img/bruknerredesign/bruknerbirdvista.png" 
+             alt="Bird Vista Website Page by Amanda Martel" />
+</div>
 </div>
 
- <div class="image-container">
-        <img src=
-"https://media.geeksforgeeks.org/wp-content/uploads/20200403151026/adblur_gfg.png" 
-             alt="Geeks Image" />
-</div>
+
 
 ## Other Design Projects
 <!-- 1x3 gallery -->
