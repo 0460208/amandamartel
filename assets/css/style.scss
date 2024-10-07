@@ -73,7 +73,7 @@ html, body {
 
 .div2 img {
 	padding: 20px;
-	width: 600px;
+	width: 800px;
 	height: auto;
 	object-fit: contain;
 }
@@ -237,7 +237,7 @@ $desktopLarge: 1440px;
 .second-gallery {
 	display: grid;
 	grid-template-columns: 1fr;
-	gap: 5px;
+	gap: 15px;
 	padding: 5px;
 	transition: .3s;
 	
