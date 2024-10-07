@@ -84,11 +84,6 @@ html, body {
 }
 
 
-ul {
-	list-style-type: circle;
-	list-style: circle;
-}
-
 
 /* social icons */
 .fa {
@@ -350,7 +345,8 @@ $desktopLarge: 1440px;
   }
 
 */
-  
-  
-  
-  
+   
+ul {
+	list-style-type: circle;
+	list-style: circle;
+}
