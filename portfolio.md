@@ -7,13 +7,13 @@ title: Amanda's Work
 
 Brukner Nature Center is a nonprofit environmental education organization situated in Troy, Ohio. Alongside two peers, we completed a full website redesign aimed at strengthening the design, usability, and functionality of the site. Our redesign introduced a fresh visual identity and improved navigation, significantly enhancing user engagement and making educational content more accessible to the community.
 
-Check out the [Live Website!](https://www.bruknernaturecenter.com/){:target="_blank"}
+<!-- Check out the [Live Website!](https://www.bruknernaturecenter.com/){:target="_blank"} -->
 
 <!-- <div class="float"> -->
 
 <div class="div1">
-
-Check out the <a href="" target="_blank">Live Website!</a>
+<img src="/img/right-arrow" width="20px" height="20px">
+Check out the <a href="https://www.bruknernaturecenter.com/" target="_blank">Live Website!</a>
 <h3>Key Enhancements</h3>
 <ul>
 	<li>
