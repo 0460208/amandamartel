@@ -12,8 +12,6 @@ Brukner Nature Center is a nonprofit environmental education organization situat
 <!-- <div class="float"> -->
 
 <div class="div1">
-
-<img id="icon" src="img/right-arrow.png"> 
 <i class="fa-solid fa-arrow-right"></i>Check out the <a href="https://www.bruknernaturecenter.com/" target="_blank">Live Website!</a>
 <h3>Key Enhancements</h3>
 <ul>
@@ -38,6 +36,11 @@ Brukner Nature Center is a nonprofit environmental education organization situat
 <img src="img/bruknerredesign/bruknerbirdvista.png">
 </div>
 
+ <div class="image-container">
+        <img src=
+"https://media.geeksforgeeks.org/wp-content/uploads/20200403151026/adblur_gfg.png" 
+             alt="Geeks Image" />
+</div>
 
 ## Other Design Projects
 <!-- 1x3 gallery -->

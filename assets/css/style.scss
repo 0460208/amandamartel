@@ -347,3 +347,11 @@ ul {
 	list-style: circle;
 	margin-left: 25px;
 }
+
+.image-container img {
+	transition: transform 0.3s ease-in-out;
+}
+
+.image-container img:hover {
+	transform: scale(1.2);
+}
