@@ -7,11 +7,9 @@ title: Amanda's Work
 
 Brukner Nature Center is a nonprofit environmental education organization situated in Troy, Ohio. Alongside two peers, we completed a full website redesign aimed at strengthening the design, usability, and functionality of the site. Our redesign introduced a fresh visual identity and improved navigation, significantly enhancing user engagement and making educational content more accessible to the community.
 
-Check out the [Live Website!](https://www.bruknernaturecenter.com/){:target="_blank"}
-
-<!-- <div class="float"> -->
 
 <div class="div1">
+<p>Check out the <a href="https://www.bruknernaturecenter.com/" target="_blank">live website!</a>
 <h3>Key Enhancements</h3>
 <ul>
 	<li>
@@ -29,7 +27,6 @@ Check out the [Live Website!](https://www.bruknernaturecenter.com/){:target="_bl
 </ul>
 </div>
 
-<!-- </div> -->
 
 <div class="div2">
 <img src="img/bruknerredesign/bruknerbirdvista.png">
@@ -60,7 +57,6 @@ Check out the [Live Website!](https://www.bruknernaturecenter.com/){:target="_bl
 			</figure>
 		</a>
 </div>
-
 
 
 <!-- 2x2 gallery 
@@ -109,11 +105,12 @@ Brukner Nature Center: [SEO Keyword Anaylsis 2024](./bruknerseo.pdf){:target="_b
 
 ## Achievements & Certificates
 
-Outstanding Student Award 2024 from Clark State College
+**Outstanding Student Award**, from Clark State College 2024 
 
-Social Media Marketing Certificate 2021 from Clark State College
+Social Media Marketing Certificate, from Clark State College 2021
 
-New Media Certificate from 2021 Clark State College
+New Media Certificate, from Clark State College 2021
+
 
 
 [back](./)
