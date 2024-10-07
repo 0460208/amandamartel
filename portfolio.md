@@ -12,7 +12,7 @@ Brukner Nature Center is a nonprofit environmental education organization situat
 <!-- <div class="float"> -->
 
 <div class="div1">
-<img src="/img/right-arrow.png" width="20px" height="20px">
+<img id="icon" src="/img/right-arrow.png">
 Check out the <a href="https://www.bruknernaturecenter.com/" target="_blank">Live Website!</a>
 <h3>Key Enhancements</h3>
 <ul>
