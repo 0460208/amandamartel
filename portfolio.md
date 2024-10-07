@@ -41,7 +41,7 @@ Check out the <a href="https://www.bruknernaturecenter.com/" target="_blank">Liv
              alt="Bird Vista Website Page by Amanda Martel" />
 </div> -->
 
-<video width="100%" height="auto" margin="auto" autoplay loop muted>
+<video width="auto" height="400" autoplay loop muted>
   <source src="bruknerdemo.mp4" type="video/mp4">
 </video>
 
