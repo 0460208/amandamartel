@@ -17,16 +17,16 @@ Check out the <a href="https://www.bruknernaturecenter.com/" target="_blank">Liv
 <h3>Key Enhancements</h3>
 <ul>
 	<li>
-		    Website is now mobile responsive
+		Website is now mobile responsive
 	</li>
 	<li>
-		    Improved overall user experience
+		Improved overall user experience
 	</li>
 	<li>
-		    Enhanced aesthetic appeal
+		Enhanced aesthetic appeal
 	</li>
 	<li>
-		    Implemented custom SEO for increased traffic
+		Implemented custom SEO for increased traffic
 	</li>
 </ul>
 </div>
