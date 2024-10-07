@@ -12,6 +12,8 @@ Check out the [Live Website!](https://www.bruknernaturecenter.com/){:target="_bl
 <!-- <div class="float"> -->
 
 <div class="div1">
+
+Check out the <a href="" target="_blank">Live Website!</a>
 <h3>Key Enhancements</h3>
 <ul>
 	<li>
