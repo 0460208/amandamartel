@@ -99,9 +99,8 @@ Check out the <a href="https://www.bruknernaturecenter.com/" target="_blank">Liv
 
 <br>
 
+<!-- 
 ## Search Engine Optimization
-
-
 ### SEO Audit Report for Clark State College 
 __Tools Used:__ Google Analytics, SEMrush, Screaming Frog SEO Spider
 <br>
@@ -118,8 +117,9 @@ Improved the website’s search engine ranking for key target keywords, such as 
 
 
 [See Full Audit Details (PDF)](./clarkstateseo.pdf){:target="_blank"}
+-->
 
-### SEO Optimization for Brukner Nature Center 
+<!-- ### SEO Optimization for Brukner Nature Center 
 __Tools Used:__ Google Keyword Planner, Moz, Yoast SEO
 <br>
 __Goal:__ Optimized meta titles and descriptions for better search engine visibility on all pages of Brukner Nature Center's website.
@@ -137,6 +137,7 @@ Boosted local visibility, improving rankings for regional nature center keywords
 [See Full Optimization Details (PDF)](./bruknerseo.pdf){:target="_blank"}
 
 <br>
+-->
 
 ## Achievements & Certificates
 
