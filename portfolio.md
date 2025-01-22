@@ -94,37 +94,47 @@ Check out the <a href="https://www.bruknernaturecenter.com/" target="_blank">Liv
 		</a>
 </div>
 
-
 <br>
 
 ## Search Engine Optimization
 
-Clark State College: [SEO Audit Report](./clarkstateseo.pdf){:target="_blank"}
-<br>
-__Technologies/Tools:__ Google Analytics, Google Search Console, Screaming Frog SEO Spider
-<br>
-__Project Goal:__
-<br>
-The website for Clark State College faced issues with low search engine visibility and underperforming organic traffic. The goal was to conduct a thorough SEO audit to identify and resolve technical issues, optimize on-page elements, and enhance overall SEO performance.
 
-__Role:__
+### SEO Audit Report for Clark State College [See Full Audit Details (PDF)](./clarkstateseo.pdf){:target="_blank"}
 <br>
-I performed a comprehensive SEO audit of the website. This included identifying on-page and technical SEO issues, recommending improvements, and implementing best practices to improve the site's organic search performance.
+Tools Used: Google Analytics, SEMrush, Screaming Frog SEO Spider
 
-__Approach & Strategy:__
-<br>
-Conducted a site-wide audit using Google Search Console and Screaming Frog SEO Spider to analyze the site’s structure, keywords, backlinks, and performance.
-Identified broken links, missing meta descriptions, and slow-loading pages that needed optimization.
-Provided recommendations for improving mobile-friendliness and ensuring faster load times.
-Analyzed the website’s keyword strategy and suggested content and meta tag adjustments to improve keyword relevance and search engine rankings.
+Goal:
+Conducted a comprehensive SEO audit to improve site visibility and organic traffic for Clark State College.
 
-__Impact:__
-<br>
+Role:
+Performed a detailed analysis of technical SEO issues, on-page optimization, and site structure to boost performance.
+
+Strategy:
+Identified issues like broken links, slow load times, and missing meta tags.
+Recommended keyword optimizations and mobile-friendly improvements.
+
+Results:
 Increased website traffic.
 Improved the website’s search engine ranking for key target keywords, such as “Clark State College programs” and “Clark State College admissions”.
-Enhanced user experience through optimized meta descriptions and faster load speeds, resulting in lower bounce rates.
 
-Brukner Nature Center: [SEO Keyword Anaylsis](./bruknerseo.pdf){:target="_blank"}
+
+### SEO Optimization for Brukner Nature Center [See Full Optimization Details (PDF)](./bruknerseo.pdf){:target="_blank"}
+Tools Used: Google Keyword Planner, Moz, Yoast SEO
+
+Goal:
+Optimized meta titles and descriptions for better search engine visibility on all pages of Brukner Nature Center's website.
+
+Role:
+Created keyword-focused meta titles and descriptions to improve SEO and user engagement.
+
+Strategy:
+Conducted keyword research and optimized tags for better click-through rates.
+Focused on local SEO with region-specific keywords for higher local search rankings.
+
+Results:
+Increased organic traffic in the first two months.
+Boosted local visibility, improving rankings for regional nature center keywords.
+
 
 <br>
 
