@@ -101,14 +101,13 @@ Check out the <a href="https://www.bruknernaturecenter.com/" target="_blank">Liv
 
 
 ### SEO Audit Report for Clark State College 
-<br>
 __Tools Used:__ Google Analytics, SEMrush, Screaming Frog SEO Spider
 <br>
 __Goal:__ Conducted a comprehensive SEO audit to improve site visibility and organic traffic for Clark State College.
 <br>
 __Role:__ Performed a detailed analysis of technical SEO issues, on-page optimization, and site structure to boost performance.
 <br>
-__Strategy:__Identified issues like broken links, slow load times, and missing meta tags.
+__Strategy:__ Identified issues like broken links, slow load times, and missing meta tags.
 Recommended keyword optimizations and mobile-friendly improvements.
 <br>
 __Results:__ Increased website traffic. 
