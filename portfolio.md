@@ -10,24 +10,25 @@ Brukner Nature Center is a nonprofit environmental education organization situat
 <!-- Check out the [Live Website!](https://www.bruknernaturecenter.com/){:target="_blank"} -->
 
 ## Personal Portfolio Website
-Technologies Used: HTML, CSS, JavaScript
-Role: Designed and developed the personal portfolio website to showcase web design skills.
-Problem: Needed a platform to showcase web design and development work.
-Solution: Customized the Cayman theme on GitHub Pages and integrated custom HTML, CSS, and JavaScript to enhance the design.
-Outcome: Built a responsive, user-friendly portfolio that reflects a personal brand and showcases technical skills.
+__Technologies Used:__ HTML, CSS, JavaScript
+__Role:__ Designed and developed the personal portfolio website to showcase web design skills.
+__Problem:__ Needed a platform to showcase web design and development work and resume for potential employers__.
+__Solution:__ Customized the Cayman theme on GitHub Pages and integrated custom HTML, CSS, and JavaScript to enhance the design.
+__Outcome:__ Built a responsive, user-friendly portfolio that reflects a personal brand and showcases technical skills.
 
 ## Brukner Nature Center Website Redesign
-Technologies Used: HTML, CSS, JavaScript, Squarespace
-Role: Scrum Master for a three-member team; contributed to redesigning the website.
-Problem: Website needed a more modern, user-friendly interface.
-Solution: Led the redesign, incorporating custom HTML, CSS, and JavaScript to improve navigation and mobile responsiveness.
-Outcome: Resulted in a modern, mobile-responsive site with improved customer engagement.
+(https://www.bruknernaturecenter.com/){:target="_blank"}
+__Technologies Used:__ HTML, CSS, JavaScript, Squarespace
+__Role:__ Scrum Master for a three-member team; contributed to redesigning the website and SEO.
+__Problem:__ Website needed a more modern, user-friendly interface.
+__Solution:__ Led the redesign, incorporating custom HTML, CSS, and JavaScript to improve navigation and mobile responsiveness.
+__Outcome:__ Resulted in a modern, mobile-responsive site with improved customer engagement.
 
 ## eCommerce Website for Hot Sauce Company
-Technologies Used: HTML, CSS, JavaScript, PHP, MySQL
-Role: Full-stack developer working on both front-end and back-end features.
-Problem: The client needed an online platform to sell products.
-Solution: Developed a full-stack eCommerce platform with features like user authentication, shopping cart, and payment processing.
+__Technologies Used:__ HTML, CSS, JavaScript, PHP, MySQL
+__Role:__ Full-stack developer working on both front-end and back-end features.
+__Problem:__ The client needed an online platform to sell products.
+__Solution:__ Developed a full-stack eCommerce platform with features like user authentication, shopping cart, and payment processing.
 
 <!-- <div class="float"> -->
 
