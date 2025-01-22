@@ -3,6 +3,9 @@ layout: default
 title: Amanda's Work
 ---
 
+Portfolio currently under construction – _new projects_ coming soon!
+
+
 ## Personal Portfolio Website
 __Technologies Used:__ HTML, CSS, JavaScript
 <br>
