@@ -3,10 +3,9 @@ layout: default
 title: Amanda's Work
 ---
 
-# Portfolio currently under construction – _new projects_ coming soon!
 
 
-## Personal Portfolio Website
+### Personal Portfolio Website
 __Technologies Used:__ HTML, CSS, JavaScript
 <br>
 __Role:__ Designed and developed the personal portfolio website to showcase web design skills.
@@ -17,7 +16,7 @@ __Solution:__ Customized the Cayman theme on GitHub Pages and integrated custom 
 <br>
 __Outcome:__ Built a responsive, user-friendly portfolio that reflects a personal brand and showcases technical skills.
 
-## Brukner Nature Center Website Redesign
+### Brukner Nature Center Website Redesign
 [www.bruknernaturecenter.com](https://www.bruknernaturecenter.com/){:target="_blank"}
 <br>
 __Technologies Used:__ HTML, CSS, JavaScript, Squarespace
@@ -30,7 +29,7 @@ __Solution:__ Led the redesign, incorporating custom HTML, CSS, and JavaScript t
 <br>
 __Outcome:__ Resulted in a modern, mobile-responsive site with improved customer engagement.
 
-## eCommerce Website for Hot Sauce Company
+### eCommerce Website for Hot Sauce Company
 __Technologies Used:__ HTML, CSS, JavaScript, PHP, MySQL
 <br>
 __Role:__ Full-stack developer working on both front-end and back-end features.
