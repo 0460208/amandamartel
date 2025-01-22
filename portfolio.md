@@ -16,6 +16,7 @@ __Outcome:__ Built a responsive, user-friendly portfolio that reflects a persona
 
 ## Brukner Nature Center Website Redesign
 [www.bruknernaturecenter.com](https://www.bruknernaturecenter.com/){:target="_blank"}
+<br>
 __Technologies Used:__ HTML, CSS, JavaScript, Squarespace
 <br>
 __Role:__ Scrum Master for a three-member team; contributed to redesigning the website and SEO.
@@ -99,42 +100,36 @@ Check out the <a href="https://www.bruknernaturecenter.com/" target="_blank">Liv
 ## Search Engine Optimization
 
 
-### SEO Audit Report for Clark State College [See Full Audit Details (PDF)](./clarkstateseo.pdf){:target="_blank"}
+### SEO Audit Report for Clark State College 
 <br>
-Tools Used: Google Analytics, SEMrush, Screaming Frog SEO Spider
-
-Goal:
-Conducted a comprehensive SEO audit to improve site visibility and organic traffic for Clark State College.
-
-Role:
-Performed a detailed analysis of technical SEO issues, on-page optimization, and site structure to boost performance.
-
-Strategy:
-Identified issues like broken links, slow load times, and missing meta tags.
+__Tools Used:__ Google Analytics, SEMrush, Screaming Frog SEO Spider
+<br>
+__Goal:__ Conducted a comprehensive SEO audit to improve site visibility and organic traffic for Clark State College.
+<br>
+__Role:__ Performed a detailed analysis of technical SEO issues, on-page optimization, and site structure to boost performance.
+<br>
+__Strategy:__Identified issues like broken links, slow load times, and missing meta tags.
 Recommended keyword optimizations and mobile-friendly improvements.
-
-Results:
-Increased website traffic.
+<br>
+__Results:__ Increased website traffic. 
 Improved the website’s search engine ranking for key target keywords, such as “Clark State College programs” and “Clark State College admissions”.
+<br>
+[See Full Audit Details (PDF)](./clarkstateseo.pdf){:target="_blank"}
 
-
-### SEO Optimization for Brukner Nature Center [See Full Optimization Details (PDF)](./bruknerseo.pdf){:target="_blank"}
-Tools Used: Google Keyword Planner, Moz, Yoast SEO
-
-Goal:
-Optimized meta titles and descriptions for better search engine visibility on all pages of Brukner Nature Center's website.
-
-Role:
-Created keyword-focused meta titles and descriptions to improve SEO and user engagement.
-
-Strategy:
-Conducted keyword research and optimized tags for better click-through rates.
+### SEO Optimization for Brukner Nature Center 
+__Tools Used:__ Google Keyword Planner, Moz, Yoast SEO
+<br>
+__Goal:__ Optimized meta titles and descriptions for better search engine visibility on all pages of Brukner Nature Center's website.
+<br>
+__Role:__ Created keyword-focused meta titles and descriptions to improve SEO and user engagement.
+<br>
+__Strategy:__ Conducted keyword research and optimized tags for better click-through rates.
 Focused on local SEO with region-specific keywords for higher local search rankings.
-
-Results:
-Increased organic traffic in the first two months.
+<br>
+__Results:__ Increased organic traffic in the first two months.
 Boosted local visibility, improving rankings for regional nature center keywords.
-
+<br>
+[See Full Optimization Details (PDF)](./bruknerseo.pdf){:target="_blank"}
 
 <br>
 
