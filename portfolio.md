@@ -116,6 +116,7 @@ Recommended keyword optimizations and mobile-friendly improvements.
 __Results:__ Increased website traffic. 
 Improved the website’s search engine ranking for key target keywords, such as “Clark State College programs” and “Clark State College admissions”.
 <br>
+
 [See Full Audit Details (PDF)](./clarkstateseo.pdf){:target="_blank"}
 
 ### SEO Optimization for Brukner Nature Center 
@@ -131,6 +132,7 @@ Focused on local SEO with region-specific keywords for higher local search ranki
 __Results:__ Increased organic traffic in the first two months.
 Boosted local visibility, improving rankings for regional nature center keywords.
 <br>
+
 [See Full Optimization Details (PDF)](./bruknerseo.pdf){:target="_blank"}
 
 <br>
