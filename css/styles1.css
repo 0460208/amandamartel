@@ -1,0 +1,265 @@
+/* headings */
+#lead-content h1 {
+    font-family: "PlayfairDisplay", serif;
+    font-size: 4.5em;
+    padding: 30px;
+}
+
+#lead-content h2 {
+    color: white;
+}
+
+h2.heading {
+    font-family: "PlayfairDisplay", serif;
+}
+.heading:after {
+    background: #471C42;
+}
+
+#projects h2 {
+    color: #471C42;
+}
+
+h3 {
+    text-align: left;
+}
+
+
+header a {
+    color: #471C42;
+}
+
+#skills h2 {
+    color: #471C42
+}
+
+/* body */
+
+body {
+    font-family: "Montserrat", sans-serif; 
+}
+
+/* links */
+a {
+    color: #471C42;
+}
+
+a:hover {
+    color: #94309a;
+    text-decoration: underline;
+}
+
+/* list items */
+li {
+    font-size: 16px;
+    line-height: 1.5em;
+}
+
+/* images */
+img {
+    width: 330px;
+    height: 440px;
+    object-fit: contain;
+    margin-top: 10px;
+}
+
+
+#me {
+    height: 260px;
+    width: auto;
+    padding-top: 0px;
+    padding-bottom: 20px;
+    display: block;
+    margin: auto;
+}
+
+
+/* projects elements */
+.project.shadow-large {
+    height: 460px;
+}
+
+.project-info {
+    margin-left: 370px;
+    margin-right: 10px;
+}
+
+/* contact section */
+#contact {
+    background-color: #471C42;
+}
+
+#contact-form input, #contact-form textarea {
+    background: #693a64;
+
+}
+
+#contact-form button {
+    background-color: #f4eff4;
+    color: #471C42;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    font-size: 2rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#contact-form button:hover {
+    background-color: #d2cfd1;
+}
+
+#contact-form input::placeholder,
+#contact-form textarea::placeholder {
+    color: #999;
+}
+
+/* arrow down */
+#lead-down span {
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    border: 3px solid #fff;
+    text-align: center;
+}
+
+#lead-down span:hover {
+    cursor: pointer;
+    background-color: #693a64;
+    display: block;
+    margin: 0 auto;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    border: 3px solid #693a64;
+    text-align: center;
+}
+
+/* arrow up */
+.top span {
+    cursor: pointer;
+    display: block;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    margin: 15px auto 0px;
+    border-radius: 50%;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #6b6f72;
+    border-image: initial;
+}
+
+.top span:hover {
+    cursor: pointer;
+    display: block;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    margin: 15px auto 0px;
+    border-radius: 50%;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #693a64;
+    border-image: initial;
+}
+
+/* buttons */
+.btn-rounded-white:hover {
+    color: #471C42;
+    background: #fff;
+    text-decoration: none;
+}
+
+/* education section */
+#education {
+    position: relative;
+    background-image: url('../images/educationbg.jpg'); /* Replace with your actual image path */
+    background-size: cover;
+    background-position: center;
+    color: white; /* Optional, for contrast */
+    overflow: hidden;
+}
+
+#education::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #1d1a1dc7; /* Dark overlay with 50% opacity */
+    z-index: 0;
+}
+
+/* Ensure inner content appears above the overlay */
+#education > * {
+    position: relative;
+    z-index: 1;
+}
+
+
+#education p, #education h2, #education h3, #education h4, #education li {
+    color: white;
+}
+
+#education h2.heading:after {
+    background-color: white;
+}
+
+
+/* skills section */
+#skills {
+    background-color: #DECBB7;
+}
+
+#projects, #about, footer {
+    background-color: #F7F0F5;
+}
+
+#skills ul {
+    display: block;
+    margin: 0 auto;
+    padding: 0;
+    max-width: 80%;
+}
+
+#skills li {
+    background: #F7F0F5;
+}
+
+.social a i {
+    color: #6b6f72; /* Default color */
+    font-size: 3rem;
+}
+
+.social a:hover i {
+    color: #471C42 !important; /* Force the hover color */
+}
+
+.col-md-7 {
+    border-left: .25rem solid #471C42;
+    padding-left: 20px;
+}
+
+
+/* mobile responsive */
+@media only screen and (max-width: 480px) {
+    #lead-content h1 {
+        font-size: 1.5em;
+    }
+
+
+
+@media only screen and (max-width: 768px) {
+    #lead-content h1 {
+         font-size: 2em;
+    }
+
+@media only screen and (max-width: 992px) {
+    #lead-content h1 {
+        font-size: 3em;
+    }   
